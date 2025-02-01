@@ -127,7 +127,7 @@
 
 
 
-# 4. CNN for based Remote Sensing Image Dehazing:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 4. CNN-based Models for Remote Sensing Image Dehazing:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -150,7 +150,7 @@
 
 
 
-# 5. Transformer for based Remote Sensing Image Dehazing:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 5. Transformer-based Models for based Remote Sensing Image Dehazing:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -176,7 +176,7 @@
 
 
 
-#  6. Diffusion Model for Remote Sensing Image Dehazing:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+#  6. Diffusion-based Models for Remote Sensing Image Dehazing:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-01-08) :balloon:
 
