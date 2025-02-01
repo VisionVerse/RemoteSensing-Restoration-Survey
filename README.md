@@ -44,7 +44,7 @@
 
 
 
-# 1. Remote Sensing Image Dehazing Methods Based on Traditional Image Processing:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 1. Traditional Image Processing for Remote Sensing Image Dehazing:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -83,7 +83,7 @@
 
 
 
-# 2. Remote Sensing Image Dehazing Methods Based on Physical Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 2. Physical Models for Remote Sensing Image Dehazing:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -100,7 +100,7 @@
 
 
 
-# 3. Remote Sensing Image Dehazing Methods Based on Prior Knowledge:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 3. Prior Knowledge for Remote Sensing Image Dehazing:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -127,7 +127,7 @@
 
 
 
-# 4. CNN - based Remote Sensing Image Dehazing Methods:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 4. CNN for based Remote Sensing Image Dehazing:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -150,7 +150,7 @@
 
 
 
-# 5. Transformer - based Remote Sensing Image Dehazing Methods:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 5. Transformer for based Remote Sensing Image Dehazing:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
@@ -176,7 +176,7 @@
 
 
 
-#  6. Diffusion-based Remote Sensing Image Dehazing Methods:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+#  6. Diffusion Model for Remote Sensing Image Dehazing:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2024-01-08) :balloon:
 
