@@ -189,21 +189,6 @@ python evaluate_RealBlur_R.py
 ```
 
 
-------
-
-# Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-
-If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and evaluation code are useful, please cite the following paper:
-```BibTeX
-@article{xiang2024deep,
-  title={Deep learning in motion deblurring: current status, benchmarks and future prospects},
-  author={Xiang, Yawen and Zhou, Heng and Li, Chengyang and Sun, Fangwei and Li, Zhongbo and Xie, Yongqiang},
-  journal={The Visual Computer},
-  pages={1--27},
-  year={2024},
-  publisher={Springer}
-}
-```
 
 
 --------------------------------------------------------------------------------------
