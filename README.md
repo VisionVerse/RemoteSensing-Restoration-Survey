@@ -1,6 +1,6 @@
 # Remote Sensing Image-Restoration-Survey
 
-:fire::fire: In this review, we have systematically examined **over 150 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing :star2:**more than 30** blind motion deblurring methods. 
+:fire::fire: In this review, we have systematically examined **over 150 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing :star2:**more than ** Remote Sensing Image Restoration methods. 
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
 
@@ -184,7 +184,7 @@ python evaluation/eval.py -s [ground-truth image path] -d [predicted-sample imag
 
 # Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and evaluation code are useful, please cite the following paper:
+<!--If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and evaluation code are useful, please cite the following paper:
 ```BibTeX
 @article{xiang2024deep,
   title={Deep learning in motion deblurring: current status, benchmarks and future prospects},
@@ -194,7 +194,7 @@ If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and e
   year={2024},
   publisher={Springer}
 }
-```
+```-->
 
 --------------------------------------------------------------------------------------
 
