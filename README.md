@@ -161,19 +161,7 @@
 
 # 7. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-* For evaluation on **GoPro** results in MATLAB, modify './out/...' to the corresponding path
-```matlab
-evaluation_GoPro.m
-```
-* For evaluation on **HIDE** results in MATLAB, modify './out/...' to the corresponding path
-```matlab
-evaluation_HIDE.m
-```
-* For evaluation on **RealBlur_J** results, modify './out/...' to the corresponding path
-```python
-python evaluate_RealBlur_J.py
-```
-* For evaluation on **RealBlur_R** results, modify './out/...' to the corresponding path
+* For evaluation on **RICE** results, modify './out/...' to the corresponding path
 ```python
 python evaluate.py -to gt/ -td dehaze/
 python evaluation/eval.py -s [ground-truth image path] -d [predicted-sample image path]
