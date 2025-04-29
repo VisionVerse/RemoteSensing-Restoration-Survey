@@ -1,10 +1,8 @@
 # Remote Sensing Image-Restoration-Survey
 
-:fire::fire: In this review, we have systematically examined **over 150 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing :star2:**more than ** Remote Sensing Image Restoration methods. 
+:fire::fire: In this review, we have systematically examined **over 100 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing :star2:**more than** 30 Remote Sensing Image Restoration methods. 
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
-
-:fire::fire::fire::fire: The latest deblurring papers of [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) have been included~
 
 
 ## Content:
