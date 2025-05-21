@@ -39,7 +39,7 @@
 ------
 
 
-# 1. Remote Sensing Image Restoration Methods Based on Traditional Image Processing(Image enhancement):  <a id="Image enhancement" class="anchor" href="#Image enhancement" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 1. Traditional Image Enhancement:  <a id="Image enhancement" class="anchor" href="#Image enhancement" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -54,7 +54,7 @@
 ------
 
 
-# 2. Remote Sensing Image Restoration Methods Based on Physical Models :  <a id="Physical Models" class="anchor" href="#Physical Models" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 2. Physical Models :  <a id="Physical Models" class="anchor" href="#Physical Models" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -82,7 +82,7 @@
 ------
 
 
-# 3. CNN - based Remote Sensing Image Restoration Methods:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 3. CNN-based Models:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -106,7 +106,7 @@
 ------
 
 
-# 4. GAN - based Remote Sensing Image Restoration Methods:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 4. GAN-based Methods:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
 
@@ -124,7 +124,7 @@
 ------
 
 
-# 5. Transformer - based Remote Sensing Image Restoration Methods:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 5. Transformer-based Methods:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-04-10) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -144,7 +144,7 @@
 ------
 
 
-#  6. Diffusion-based Remote Sensing Image Restoration Methods:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+#  6. Diffusion-based Methods:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-04-10) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -174,14 +174,7 @@ python evaluation/eval.py -s [ground-truth image path] -d [predicted-sample imag
 
 <!--If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and evaluation code are useful, please cite the following paper:
 ```BibTeX
-@article{xiang2024deep,
-  title={Deep learning in motion deblurring: current status, benchmarks and future prospects},
-  author={Xiang, Yawen and Zhou, Heng and Li, Chengyang and Sun, Fangwei and Li, Zhongbo and Xie, Yongqiang},
-  journal={The Visual Computer},
-  pages={1--27},
-  year={2024},
-  publisher={Springer}
-}
+
 ```-->
 
 --------------------------------------------------------------------------------------
