@@ -32,9 +32,8 @@
 07 | [**RESIDE**](https://ieeexplore.ieee.org/document/8451944) | 2018 | TIP | 13990 | Synthetic | 13000/0/990 | [link](https://sites.google.com/view/reside-dehaze-datasets) 
 08 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | Synthetic | - | [link](https://github.com/chi-kaichen/Trinity-Net) 
 09 | [**UBCSet**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2024 | ISPRS | 5911 | Synthetic | - | [link](https://github.com/Liying-Xu/TCBC) 
-10 | [**RRSHID**](https://ieeexplore.ieee.org/document/10050029) | 2023 | IEEE Access | 277 | Real | - |[link](https://github.com/foreverfruit/HALP)
-11 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | real | - |[link](https://github.com/Neooolee/WHUS2-CR)
-12 | [**SEN12MS-CR**](https://patricktum.github.io/cloud_removal/sen12mscr/) | 2018 | - | 122218 | real | - |[link](https://patricktum.github.io/cloud_removal/sen12mscr/)
+10 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | real | - |[link](https://github.com/Neooolee/WHUS2-CR)
+11 | [**SEN12MS-CR**](https://patricktum.github.io/cloud_removal/sen12mscr/) | 2018 | - | 122218 | real | - |[link](https://patricktum.github.io/cloud_removal/sen12mscr/)
 
 ------
 
