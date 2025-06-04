@@ -8,14 +8,13 @@
 ## Content:
 
 0. <a href="#Datasets">Remote Sensing Image Datasets</a>
-1. <a href="#Image enhancement"> Remote Sensing Image Restoration Methods Based on Traditional Image Processing(Image enhancement)</a>
-2.  <a href="#Physical Models"> Remote Sensing Image Restoration Methods Based on Physical Models</a>
-3. <a href="#CNNmodels"> CNN - based Remote Sensing Image Restoration Methods </a>
-4. <a href="#GANmodels">GAN - based Remote Sensing Image Restoration Methods </a>
-5. <a href="#Transformer">Transformer - based Remote Sensing Image Restoration Methods </a>
-6. <a href="#Diffusion"> Diffusion-based Remote Sensing Image Restoration Methods</a>
-8. <a href="#evaluation"> Evaluation </a>
-9. <a href="#citation"> Citation </a>
+1. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
+2. <a href="#CNNmodels"> CNN - based Remote Sensing Image Restoration Methods </a>
+3. <a href="#GANmodels">GAN - based Remote Sensing Image Restoration Methods </a>
+4. <a href="#Transformer">Transformer - based Remote Sensing Image Restoration Methods </a>
+5. <a href="#Diffusion"> Diffusion-based Remote Sensing Image Restoration Methods</a>
+6. <a href="#evaluation"> Evaluation </a>
+7. <a href="#citation"> Citation </a>
 
 ------
 
@@ -38,111 +37,98 @@
 ------
 
 
-# 1. Traditional Image Enhancement:  <a id="Image enhancement" class="anchor" href="#Image enhancement" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
+# 1. Traditional Methods:  <a id="Traditional Methods" class="anchor" href="#Traditional Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+:rocket::rocket::rocket:Update (in 2025-06-04) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2023 | ED | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
-02 | 2019 | AHE | APCC | Single Image Dehazing Based on Adaptive Histogram Equalization and Linearization of Gamma Correction | [Paper](https://ieeexplore.ieee.org/document/9026457)/[Project]
-03 | 2022 | CLAHEMSF | MTA | Single image haze removal using contrast limited adaptive histogram equalization based multiscale fusion technique | [Paper](https://link.springer.com/article/10.1007/s11042-021-11890-0)/[Project]
-04 | 2020 | URSHR | IEEE Access | A New Haze Removal Algorithm for Single Urban Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/9102275)/Project
-05 | 2018 |  | GRSL | A Framework for Outdoor RGB Image Enhancement and Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/8331851)/[Project]
-06 | 2018 | SMIDCP | GRSL | Haze and thin cloud removal via sphere model improved dark channel prior | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
+01 | 2015 | DHIM | IEEE Signal Processing Letters | Haze removal for a single remote sensing image based on deformed haze imaging model |[Paper](https://ieeexplore.ieee.org/abstract/document/7105841)/[Project]
+02 | 2017 | HTM | Signal Processing | Haze removal for a single visible remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168417300464)/[Project]
+03 | 2018 |  | GRSL | A Framework for Outdoor RGB Image Enhancement and Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/8331851)/[Project]
+04 | 2018 | SMIDCP | GRSL | Haze and thin cloud removal via sphere model improved dark channel prior | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
+05 | 2018 | SMIDCP | GRSL | Haze and thin cloud removal via sphere model improved dark channel prior | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
+06 | 2019 | AHE | APCC | Single Image Dehazing Based on Adaptive Histogram Equalization and Linearization of Gamma Correction | [Paper](https://ieeexplore.ieee.org/document/9026457)/[Project]
+07 | 2019 | DADN |Remote Sensing|Single Remote Sensing Image Dehazing Using a Prior-Based Dense Attentive Network|[Paper](https://www.mdpi.com/2072-4292/11/24/3008)/[Project]
+08 | 2020 | URSHR | IEEE Access | A New Haze Removal Algorithm for Single Urban Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/9102275)/[Project]
+09 | 2020 | CR-GAN-PM| ISPRS | Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion |[Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301787)/[Project](https://github.com/Neooolee/CR-GAN-PM)
+10 | 2021 | Kang et al. | TGRS | Fog Model-Based Hyperspectral Image Defogging |[Paper](https://ieeexplore.ieee.org/document/9511329)/[Project]
+11 | 2021 | MDCP | GRSL | A novel thin cloud removal method based on multiscale dark channel prior| [Paper](https://ieeexplore.ieee.org/document/9381399)/[Project] 
+12 | 2022 | CLAHEMSF | MTA | Single image haze removal using contrast limited adaptive histogram equalization based multiscale fusion technique | [Paper](https://link.springer.com/article/10.1007/s11042-021-11890-0)/[Project]
+13 | 2022 | GPD-Net | GRSL | Single Remote Sensing Image Dehazing Using Gaussian and Physics-Guided Process | [Paper](https://ieeexplore.ieee.org/document/9780137)/[Project]
+14 | 2022 | EVPM | Information Sciences | Local patchwise minimal and maximal values prior for single optical remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522004534)/[Project]
+15 | 2022 | IdeRs | Information Sciences | IDeRs: Iterative dehazing method for single remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025519301732)/[Project]
+16 | 2023 | saliency-guided parallel learning mechanism | GRSL | UAV Image Haze Removal Based on Saliency- Guided Parallel Learning Mechanism | [Paper](https://ieeexplore.ieee.org/document/10016637)/[Project]
+17 | 2023 | ED | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
+18 | 2023 | SRD | Remote Sensing | Remote Sensing Image Haze Removal Based on Superpixel | [Paper](https://www.mdpi.com/2072-4292/15/19/4680)/[Project]
+19 | 2023 | Efficient Dehazing Method | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
+20 | 2023 | RLDP | Remote Sensing | Single Remote Sensing Image Dehazing Using Robust Light-Dark Prior | [Paper](https://www.mdpi.com/2072-4292/15/4/938)/[Project]
+21 | 2023 | HALP | TGRS | Remote Sensing Image Dehazing Using  Heterogeneous Atmospheric Light Prior | [Paper](https://ieeexplore.ieee.org/document/10050029)/[Project](https://github.com/foreverfruit/HALP)
+22 | 2024 | ALFE | TGRS | A Remote Sensing Image Dehazing Method Based on Heterogeneous Priors | [Paper](https://ieeexplore.ieee.org/document/10476500 )/[Project] 
 
 ------
 
 
-# 2. Physical Models :  <a id="Physical Models" class="anchor" href="#Physical Models" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
+# 2. CNN-based Models:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+:rocket::rocket::rocket:Update (in 2025-06-04) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2023 | SRD | Remote Sensing | Remote Sensing Image Haze Removal Based on Superpixel | [Paper](https://www.mdpi.com/2072-4292/15/19/4680)/[Project]
-02 | 2023 | Efficient Dehazing Method | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
-03 | 2023 | RLDP | Remote Sensing | Single Remote Sensing Image Dehazing Using Robust Light-Dark Prior | [Paper](https://www.mdpi.com/2072-4292/15/4/938)/[Project]
-04 | 2009 | DCP | CVPR | Single image haze removal using dark channel prior | [Paper](https://ieeexplore.ieee.org/document/5206515)/[Project] 
-05 | 2024 | ALFE | TGRS | A Remote Sensing Image Dehazing Method Based on Heterogeneous Priors | [Paper](https://ieeexplore.ieee.org/document/10476500 )/[Project] 
-06 | 2023 | HALP | TGRS | Remote Sensing Image Dehazing Using  Heterogeneous Atmospheric Light Prior | [Paper](https://ieeexplore.ieee.org/document/10050029)/[Project](https://github.com/foreverfruit/HALP)
-07 | 2022 | GPD-Net | GRSL | Single Remote Sensing Image Dehazing Using Gaussian and Physics-Guided Process | [Paper](https://ieeexplore.ieee.org/document/9780137)/[Project]
-08 | 2023 | saliency-guided parallel learning mechanism | GRSL | UAV Image Haze Removal Based on Saliency- Guided Parallel Learning Mechanism | [Paper](https://ieeexplore.ieee.org/document/10016637)/[Project]
- 09 | 2019 | DADN |Remote Sensing|Single Remote Sensing Image Dehazing Using a Prior-Based Dense Attentive Network|[Paper](https://www.mdpi.com/2072-4292/11/24/3008)/[Project]
- 10 | 2015 | color attenuation prior |TIP|A fast single image haze removal algorithm using color attenuation prior|[Paper]([https://ieeexplore.ieee.org/abstract/document/7128396 )/[Project]
- 11 | 2017 | Yang et al. |Information|An effective and robust single image dehazing method using the dark channel prior|[Paper](https://www.mdpi.com/2078-2489/8/2/57 )/[Project]
- 12 | 2013 | Long et al. |GRSL|Single remote sensing image dehazing|[Paper](https://ieeexplore.ieee.org/document/6476634 )/[Project]
- 13 | 2018 | SMIDCP | GRSL | Haze and thin cloud removal via sphere model improved dark channel prior | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
- 14 | 2021 | MDCP | GRSL | A novel thin cloud removal method based on multiscale dark channel prior| [Paper](https://ieeexplore.ieee.org/document/9381399)/[Project] 
- 15 | 2015 | DHIM | IEEE Signal Processing Letters | Haze removal for a single remote sensing image based on deformed haze imaging model |[Paper](https://ieeexplore.ieee.org/abstract/document/7105841)/[Project]
- 16 | 2022 | EVPM | Information Sciences | Local patchwise minimal and maximal values prior for single optical remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522004534)/[Project]
- 17 | 2022 | IdeRs | Information Sciences | IDeRs: Iterative dehazing method for single remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025519301732)/[Project]
- 18 | 2017 | HTM | Signal Processing | Haze removal for a single visible remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168417300464)/[Project]
-19 | 2020 | CR-GAN-PM| ISPRS | Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion |[Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301787)/[Project](https://github.com/Neooolee/CR-GAN-PM)
-18 | 2021 | Kang et al. | TGRS | Fog Model-Based Hyperspectral Image Defogging |[Paper](https://ieeexplore.ieee.org/document/9511329)/[Project]
+01 | 2016 | Ren et al. | ECCV | Single image dehazing via multi-scale convolutional neural networks | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_10)/[Project]
+02 | 2019 |RSC-Net | ISPRS |Thin cloud removal with residual symmetrical concatenation network| [Paper](https://www.sciencedirect.com/science/article/pii/S092427161930125X)/[Project]
+03 | 2020 | RSDehazeNet | TGRS | RSDehazeNet: Dehazing network with channel refinement for multispectral remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9134800)/[Project](https://github.com/tianqiong123/RSDehazeNet)
+04 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
+05 | 2020 |UCR | TGRS |Single image cloud removal using U-Net and generative adversarial networks| [Paper](https://ieeexplore.ieee.org/document/9224941)/[Project]
+06 | 2020 |DSen2-CR | ISPRS |Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)/[Project]
+07 | 2021 | Zi et al.| JSTARS | Thin cloud removal for multispectral remote sensing images using convolutional neural networks combined with an imaging model | [Paper](https://ieeexplore.ieee.org/document/9384224)/[Project]
+08 | 2022 |DCIL | TGRS |Dense haze removal based on dynamic collaborative inference learning for remote sensing images| [Paper](https://ieeexplore.ieee.org/document/9895281)/[Project](https://github.com/Shan-rs/DCI-Net)
+09 | 2022 |SG-Net | ISPRS |A spectral grouping-based deep learning model for haze removal of hyperspectral images| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622001046)/[Project](https://github.com/SZU-AdvTech-2022/158-A-Spectral-Grouping-based-Deep-Learning-Model-for-Haze-Removal-of-Hyperspectral-Images)
+10 | 2022 |GLF-CR | ISPRS |GLF-CR: SAR-enhanced cloud removal with global–local fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002064)/[Project](https://github.com/xufangchn/GLF-CR)
+11 | 2022 |mutually beneficial guides | ISPRS |Semi-supervised thin cloud removal with mutually beneficial guides| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002350)/[Project]
+12 | 2023 |CP-FFCN | ISPRS |Blind single-image-based thin cloud removal using a cloud perception integrated fast Fourier convolutional network| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623002903)/[Project]
+13 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
+14 | 2023 |EMPF-Net | TGRS |Encoder-free multiaxis physics-aware fusion network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10287960)/[Project](https://github.com/chdwyb/EMPF-Net)
+15 | 2023 |SFAN | TGRS |Spatial-frequency adaptive remote sensing image dehazing with mixture of experts| [Paper](https://ieeexplore.ieee.org/abstract/document/10679156)/[Project](https://github.com/it-hao/SFAN)
+16 | 2023 |PSMB-Net | TGRS |Partial siamese with multiscale bi-codec networks for remote sensing image haze removal| [Paper](https://ieeexplore.ieee.org/abstract/document/10268954)/[Project](https://github.com/thislzm/PSMB-Net)
+17 | 2023 |HS2P | Information Fusion |HS2P: Hierarchical spectral and structure-preserving fusion network for multimodal remote sensing image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523000453)/[Project](https://github.com/weifanyi515/HS2P)
+18 | 2024 |ICL-Net | JSTARS |ICL-Net: Inverse cognitive learning network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10665990)/[Project]
+19 | 2024 |EDED-Net | Remote Sensing |End-to-end detail-enhanced dehazing network for remote sensing images| [Paper](https://www.mdpi.com/2072-4292/16/2/225)/[Project]
+20 | 2024 |ConvIR | TPAMI |Revitalizing Convolutional Network for Image Restoration| [Paper](https://ieeexplore.ieee.org/abstract/document/10571568)/[Project](https://github.com/c-yn/ConvIR)
+21 | 2024 |PhDnet | Information Fusion |PhDnet: A novel physic-aware dehazing network for remote sensing images| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524000551#b12)/[Project](https://github.com/colacomo/PhDnet)
+22 | 2024 |HyperDehazeNet | ISPRS |HyperDehazing: A hyperspectral image dehazing benchmark dataset and a deep learning model for haze removal| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003721)/[Project]
+23 | 2024 |HDRSA-Net | ISPRS |HDRSA-Net: Hybrid dynamic residual self-attention network for SAR-assisted optical image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624004039)/[Project](https://github.com/RSIIPAC/LuojiaSET-OSFCR)
+24 | 2025 |BMFH-Net | TCSVT |Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing| [Paper](https://ieeexplore.ieee.org/document/11006655)/[Project](https://github.com/zqf2024/BMFH-Net)
+25 | 2025 |HPN-CR | TGRS | HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal| [Paper](https://ieeexplore.ieee.org/document/10906642)/[Project](https://github.com/G-pz/HPN-CR)
+26 | 2025 |DDIA-CFR | Information Fusion | Breaking through clouds: A hierarchical fusion network empowered by dual-domain cross-modality interactive attention for cloud-free image reconstruction| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524004275)/[Project]
+27 | 2025 |SMDCNet | ISPRS |Cloud removal with optical and SAR imagery via multimodal similarity attention| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001856)/[Project]
+
+
 
 ------
 
 
-# 3. CNN-based Models:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
+# 3. GAN-based Methods:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+:rocket::rocket::rocket:Update (in 2025-06-04) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2016 |DehazeNet| TIP | Dehazenet: An end-to-end system for single image haze removal | [Paper](https://ieeexplore.ieee.org/document/7539399)/[Project](https://github.com/caibolun/DehazeNet)
-02 | 2020 | RSDehazeNet | TGRS | RSDehazeNet: Dehazing network with channel refinement for multispectral remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9134800)/[Project](https://github.com/tianqiong123/RSDehazeNet)
-03 | 2017 | AOD-Net | ICCV | Aod-net: All-in-one dehazing network | [Paper](https://ieeexplore.ieee.org/document/8237773)/[Project](https://github.com/weberwcwei/AODnet-by-pytorch)
-04 | 2021 | Zi et al.| JSTARS | Thin cloud removal for multispectral remote sensing images using convolutional neural networks combined with an imaging model | [Paper](https://ieeexplore.ieee.org/document/9384224)/[Project]
-05 | 2016 | Ren et al. | ECCV | Single image dehazing via multi-scale convolutional neural networks | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_10)/[Project]
-06 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
-07 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
-08 | 2025 |HPN-CR | TGRS | HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal| [Paper](https://ieeexplore.ieee.org/document/10906642)/[Project](https://github.com/G-pz/HPN-CR)
-09 | 2023 |EMPF-Net | TGRS |Encoder-free multiaxis physics-aware fusion network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10287960)/[Project](https://github.com/chdwyb/EMPF-Net)
-10 | 2023 |SFAN | TGRS |Spatial-frequency adaptive remote sensing image dehazing with mixture of experts| [Paper](https://ieeexplore.ieee.org/abstract/document/10679156)/[Project](https://github.com/it-hao/SFAN)
-11 | 2024 |ICL-Net | JSTARS |ICL-Net: Inverse cognitive learning network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10665990)/[Project]
-12 | 2023 |PSMB-Net | TGRS |Partial siamese with multiscale bi-codec networks for remote sensing image haze removal| [Paper](https://ieeexplore.ieee.org/abstract/document/10268954)/[Project](https://github.com/thislzm/PSMB-Net)
-13 | 2022 |DCIL | TGRS |Dense haze removal based on dynamic collaborative inference learning for remote sensing images| [Paper](https://ieeexplore.ieee.org/document/9895281)/[Project](https://github.com/Shan-rs/DCI-Net)
-14 | 2024 |EDED-Net | Remote Sensing |End-to-end detail-enhanced dehazing network for remote sensing images| [Paper](https://www.mdpi.com/2072-4292/16/2/225)/[Project]
-15 | 2020 |UCR | TGRS |Single image cloud removal using U-Net and generative adversarial networks| [Paper](https://ieeexplore.ieee.org/document/9224941)/[Project]
-16 | 2024 |ConvIR | TPAMI |Revitalizing Convolutional Network for Image Restoration| [Paper](https://ieeexplore.ieee.org/abstract/document/10571568)/[Project](https://github.com/c-yn/ConvIR)
-17 | 2024 |PhDnet | Information Fusion |PhDnet: A novel physic-aware dehazing network for remote sensing images| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524000551#b12)/[Project](https://github.com/colacomo/PhDnet)
-18 | 2023 |HS2P | Information Fusion |HS2P: Hierarchical spectral and structure-preserving fusion network for multimodal remote sensing image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523000453)/[Project](https://github.com/weifanyi515/HS2P)
-19 | 2025 |DDIA-CFR | Information Fusion | Breaking through clouds: A hierarchical fusion network empowered by dual-domain cross-modality interactive attention for cloud-free image reconstruction| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524004275)/[Project]
-20 | 2024 |HyperDehazeNet | ISPRS |HyperDehazing: A hyperspectral image dehazing benchmark dataset and a deep learning model for haze removal| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003721)/[Project]
-21 | 2022 |SG-Net | ISPRS |A spectral grouping-based deep learning model for haze removal of hyperspectral images| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622001046)/[Project](https://github.com/SZU-AdvTech-2022/158-A-Spectral-Grouping-based-Deep-Learning-Model-for-Haze-Removal-of-Hyperspectral-Images)
-22 | 2020 |DSen2-CR | ISPRS |Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)/[Project]
-23 | 2019 |RSC-Net | ISPRS |Thin cloud removal with residual symmetrical concatenation network| [Paper](https://www.sciencedirect.com/science/article/pii/S092427161930125X)/[Project]
-24 | 2025 |SMDCNet | ISPRS |Cloud removal with optical and SAR imagery via multimodal similarity attention| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001856)/[Project]
-25 | 2022 |GLF-CR | ISPRS |GLF-CR: SAR-enhanced cloud removal with global–local fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002064)/[Project](https://github.com/xufangchn/GLF-CR)
-26 | 2022 |mutually beneficial guides | ISPRS |Semi-supervised thin cloud removal with mutually beneficial guides| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002350)/[Project]
-27 | 2023 |CP-FFCN | ISPRS |Blind single-image-based thin cloud removal using a cloud perception integrated fast Fourier convolutional network| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623002903)/[Project]
-28 | 2024 |HDRSA-Net | ISPRS |HDRSA-Net: Hybrid dynamic residual self-attention network for SAR-assisted optical image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624004039)/[Project](https://github.com/RSIIPAC/LuojiaSET-OSFCR)
-29 | 2025 |BMFH-Net | TCSVT |Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing| [Paper](https://ieeexplore.ieee.org/document/11006655)/[Project](https://github.com/zqf2024/BMFH-Net)
-
-------
-
-
-# 4. GAN-based Methods:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-
-:rocket::rocket::rocket:Update (in 2025-04-09) :balloon:
-
-**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
-:-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2022 |Dehaze-AGGAN| TGRS | Dehaze-AGGAN: Unpaired remote sensing image dehazing using enhanced attention-guide generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/9881213)/[Project]
-02 | 2018 | Cloud-GAN | IGARSS | Cloud-gan: Cloud removal for sentinel-2 imagery using a cyclic consistent generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/8519033)/[Project]
-03 | 2020 | CR-GAN-PM | ISPRS | Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301787)/[Project](https://github.com/Neooolee/CR-GAN-PM)
-04 | 2020 |UCR | TGRS |Single image cloud removal using U-Net and generative adversarial networks| [Paper](https://ieeexplore.ieee.org/document/9224941)/[Project]
-05 | 2020 | SpA-GAN| arXiv | Cloud Removal for Remote Sensing Imagery via Spatial Attention Generative Adversarial Network | [Paper](https://arxiv.org/abs/2009.13015)/[Project](https://github.com/Penn000/SpA-GAN_for_cloud_removal)
-06 | 2021 | Darbaghshahi et al. | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
-07 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
-08 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
-09 | 2020 | Huang et al. | WACV | Single Satellite Optical Imagery Dehazing using SAR Image Prior Based on conditional Generative Adversarial Networks | [Paper](https://ieeexplore.ieee.org/document/9093471)/[Project]
-10 | 2021 | SkyGAN | WACV | Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9423159)/[Project]
+01 | 2018 | Cloud-GAN | IGARSS | Cloud-gan: Cloud removal for sentinel-2 imagery using a cyclic consistent generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/8519033)/[Project]
+02 | 2020 | CR-GAN-PM | ISPRS | Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301787)/[Project](https://github.com/Neooolee/CR-GAN-PM)
+03 | 2020 |UCR | TGRS |Single image cloud removal using U-Net and generative adversarial networks| [Paper](https://ieeexplore.ieee.org/document/9224941)/[Project]
+04 | 2020 | SpA-GAN| arXiv | Cloud Removal for Remote Sensing Imagery via Spatial Attention Generative Adversarial Network | [Paper](https://arxiv.org/abs/2009.13015)/[Project](https://github.com/Penn000/SpA-GAN_for_cloud_removal)
+05 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
+06 | 2020 | Huang et al. | WACV | Single Satellite Optical Imagery Dehazing using SAR Image Prior Based on conditional Generative Adversarial Networks | [Paper](https://ieeexplore.ieee.org/document/9093471)/[Project]
+07 | 2021 | Darbaghshahi et al. | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
+08 | 2021 | SkyGAN | WACV | Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9423159)/[Project]
+09 | 2022 |Dehaze-AGGAN| TGRS | Dehaze-AGGAN: Unpaired remote sensing image dehazing using enhanced attention-guide generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/9881213)/[Project]
+10 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
 11 | 2025 | MT_GAN | ISPRS | MT_GAN: A SAR-to-optical image translation method for cloud removal | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001479)/[Project](https://github.com/NUAA-RS/MT_GAN)
 
 ------
 
 
-# 5. Transformer-based Methods:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-04-10) :balloon:
+# 4. Transformer-based Methods:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+:rocket::rocket::rocket:Update (in 2025-06-04) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -151,33 +137,34 @@
 03 | 2023 | FormerCR |Remote Sensing | Former-CR: A transformer-based thick cloud removal method with optical and SAR imagery | [Paper](https://www.mdpi.com/2072-4292/15/5/1196)/[Project]
 04 | 2023 | RSDformer | GRSL | Learning an Effective Transformer for Remote Sensing Satellite Image Dehazing |[Paper](https://ieeexplore.ieee.org/document/10265239)/[Project](https://github.com/MingTian99/RSDformer)
 05 | 2023 | Trinity-Net |TGRS | Trinity-Net: Gradient-guided Swin transformer-based remote sensing image dehazing and beyond | [Paper](https://ieeexplore.ieee.org/abstract/document/10149032)/[Project](https://github.com/chi-kaichen/Trinity-Net)
-06 | 2024 | DCR-GLFT |TGRS | Density-aware Cloud Removal of Remote Sensing Imagery Using a Global-Local Fusion Transformer | [Paper](https://ieeexplore.ieee.org/document/10713444)/[Project]
-07 | 2024 | Dehaze-TGGAN | TGRS | Dehaze-TGGAN: Transformer-Guide Generative Adversarial Networks With Spatial-Spectrum Attention for Unpaired Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/document/10614150)/[Project]
+06 | 2023 | AIDTransformer | WACV | Aerial Image Dehazing with Attentive Deformable Transformers |[Paper](https://ieeexplore.ieee.org/document/10030985)/[Project](https://github.com/AshutoshKulkarni4998/AIDTransformer)
+07 | 2024 | DCR-GLFT |TGRS | Density-aware Cloud Removal of Remote Sensing Imagery Using a Global-Local Fusion Transformer | [Paper](https://ieeexplore.ieee.org/document/10713444)/[Project]
 08 | 2024 |SSGT | JSTARS | SSGT: Spatio-Spectral Guided Transformer for Hyperspectral Image Fusion Joint with Cloud Removal | [Paper](https://ieeexplore.ieee.org/document/10648722)/[Project]
 09 | 2024 |PGSformer| GRSL | Prompt-Guided Sparse Transformer for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10648722)/[Project]
 10 | 2024 | ASTA | GRSL | Additional Self-Attention Transformer With Adapter for Thick Haze Removal |[Paper](https://ieeexplore.ieee.org/document/10443626)/[Project](https://github.com/Eric3200C/ASTA)
-11 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
-12 | 2023 | AIDTransformer | WACV | Aerial Image Dehazing with Attentive Deformable Transformers |[Paper](https://ieeexplore.ieee.org/document/10030985)/[Project](https://github.com/AshutoshKulkarni4998/AIDTransformer)
+11 | 2024 | Dehaze-TGGAN | TGRS | Dehaze-TGGAN: Transformer-Guide Generative Adversarial Networks With Spatial-Spectrum Attention for Unpaired Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/document/10614150)/[Project]
+12 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
+
 
 ------
 
 
-#  6. Diffusion-based Methods:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-04-10) :balloon:
+#  5. Diffusion-based Methods:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+:rocket::rocket::rocket:Update (in 2025-06-04) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 01 | 2023 | ARDD-Net | GRSL | Remote Sensing Image Dehazing Using Adaptive Region-Based Diffusion Models | [Paper](https://ieeexplore.ieee.org/document/10233893)/[Project]
-02 | 2024 |ADND-Net | GRSL | Diffusion Models Based Null-Space Learning for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10445700)/[Project] 
-03 | 2024 |RSHazeDiff | T-ITS | RSHazeDiff: A unified Fourier-aware diffusion model for remote sensing image dehazing | [Paper](https://ieeexplore.ieee.org/document/10747754)/[Project](https://github.com/jm-xiong/RSHazeDiff)
-04 | 2023 |SeqDMs | Remote Sensing | Cloud removal in remote sensing using sequential-based diffusion models | [Paper](https://www.mdpi.com/2072-4292/15/11/2861)/[Project]
+02 | 2023 |SeqDMs | Remote Sensing | Cloud removal in remote sensing using sequential-based diffusion models | [Paper](https://www.mdpi.com/2072-4292/15/11/2861)/[Project]
+03 | 2024 |ADND-Net | GRSL | Diffusion Models Based Null-Space Learning for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10445700)/[Project] 
+04 | 2024 |RSHazeDiff | T-ITS | RSHazeDiff: A unified Fourier-aware diffusion model for remote sensing image dehazing | [Paper](https://ieeexplore.ieee.org/document/10747754)/[Project](https://github.com/jm-xiong/RSHazeDiff)
 05 | 2024 |IDF-CR | TGRS | IDF-CR: Iterative diffusion process for divide-and-conquer cloud removal in remote-sensing images | [Paper](https://ieeexplore.ieee.org/abstract/document/10474382)/[Project](https://github.com/SongYxing/IDF-CR)
 06 | 2025 |EMRDM | CVPR | Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space | [Paper](https://arxiv.org/abs/2503.23717)/[Project](https://github.com/Ly403/EMRDM)
 
 ------
 
 
-# 7. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 6. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 * For evaluation on **RICE**, **StateHaze1k** results, modify 'test_original' and 'test_restored' to the corresponding path
 ```python
