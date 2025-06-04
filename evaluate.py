@@ -40,11 +40,11 @@ def calculate_metrics(corrected, reference):
 def main():
     ap = argparse.ArgumentParser(description='Calculate PSNR and SSIM metrics for image restoration')
     ap.add_argument("-to", "--test_original", required=True, help="path to original testing images")
-    ap.add_argument("-td", "--test_dehaze", required=True, help="path to dehazed testing images")
+    ap.add_argument("-td", "--test_restored", required=True, help="path to restored testing images")
     args = vars(ap.parse_args())
 
     reference_dir = args["test_original"]
-    result_dir = args["test_dehaze"]
+    result_dir = args["test_restored"]
 
 
     reference_files = set(os.listdir(reference_dir))
@@ -72,7 +72,7 @@ def main():
                 corrected = io.imread(res_path)
 
                 if reference.shape != corrected.shape:
-                    print(f"Skip {image_name}: Image size mismatch！ (gt: {reference.shape}, dehaze: {corrected.shape})")
+                    print(f"Skip {image_name}: Image size mismatch！ (gt: {reference.shape}, restored: {corrected.shape})")
                     continue
 
                 psnr, ssim = calculate_metrics(corrected, reference)
