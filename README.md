@@ -103,6 +103,8 @@
 15 | 2020 |UCR | TGRS |Single image cloud removal using U-Net and generative adversarial networks| [Paper](https://ieeexplore.ieee.org/document/9224941)/[Project]
 16 | 2024 |ConvIR | TPAMI |Revitalizing Convolutional Network for Image Restoration| [Paper](https://ieeexplore.ieee.org/abstract/document/10571568)/[Project](https://github.com/c-yn/ConvIR)
 17 | 2024 |PhDnet | Information Fusion |PhDnet: A novel physic-aware dehazing network for remote sensing images| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524000551#b12)/[Project](https://github.com/colacomo/PhDnet)
+18 | 2023 |HS2P | Information Fusion |HS2P: Hierarchical spectral and structure-preserving fusion network for multimodal remote sensing image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523000453)/[Project](https://github.com/weifanyi515/HS2P)
+19 | 2025 |DDIA-CFR | Breaking through clouds: A hierarchical fusion network empowered by dual-domain cross-modality interactive attention for cloud-free image reconstruction| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524004275)/[Project]
 
 ------
 
@@ -121,6 +123,8 @@
 06 | 2021 | Darbaghshahi et al. | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
 07 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
 08 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
+09 | 2020 | Huang et al. | WACV | Single Satellite Optical Imagery Dehazing using SAR Image Prior Based on conditional Generative Adversarial Networks | [Paper](https://ieeexplore.ieee.org/document/9093471)/[Project]
+10 | 2021 | SkyGAN | WACV | Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9423159)/[Project]
 
 ------
 
@@ -141,6 +145,7 @@
 09 | 2024 |PGSformer| GRSL | Prompt-Guided Sparse Transformer for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10648722)/[Project]
 10 | 2024 | ASTA | GRSL | Additional Self-Attention Transformer With Adapter for Thick Haze Removal |[Paper](https://ieeexplore.ieee.org/document/10443626)/[Project](https://github.com/Eric3200C/ASTA)
 11 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
+12 | 2023 | AIDTransformer | WACV | Aerial Image Dehazing with Attentive Deformable Transformers |[Paper](https://ieeexplore.ieee.org/document/10030985)/[Project](https://github.com/AshutoshKulkarni4998/AIDTransformer)
 
 ------
 
