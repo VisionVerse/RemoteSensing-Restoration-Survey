@@ -179,10 +179,9 @@
 
 # 7. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-* For evaluation on **RICE** results, modify './out/...' to the corresponding path
+* For evaluation on **RICE**, **StateHaze1k** results, modify 'test_original' and 'test_restored' to the corresponding path
 ```python
-python evaluate.py -to gt/ -td dehaze/
-python evaluation/eval.py -s [ground-truth image path] -d [predicted-sample image path]
+python evaluate.py -to [ground-truth image path] -td [restored image path]
 ```
 
 ------
