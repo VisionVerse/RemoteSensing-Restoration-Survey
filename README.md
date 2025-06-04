@@ -102,7 +102,7 @@
 14 | 2024 |EDED-Net | Remote Sensing |End-to-end detail-enhanced dehazing network for remote sensing images| [Paper](https://www.mdpi.com/2072-4292/16/2/225)/[Project]
 15 | 2020 |UCR | TGRS |Single image cloud removal using U-Net and generative adversarial networks| [Paper](https://ieeexplore.ieee.org/document/9224941)/[Project]
 16 | 2024 |ConvIR | TPAMI |Revitalizing Convolutional Network for Image Restoration| [Paper](https://ieeexplore.ieee.org/abstract/document/10571568)/[Project](https://github.com/c-yn/ConvIR)
-17 | 2024 |PhDnet | Information Fusion |PhDnet: A novel physic-aware dehazing network for remote sensing images| [Paper]([https://ieeexplore.ieee.org/abstract/document/10571568](https://www.sciencedirect.com/science/article/pii/S1566253524000551#b12))/[Project](https://github.com/colacomo/PhDnet)
+17 | 2024 |PhDnet | Information Fusion |PhDnet: A novel physic-aware dehazing network for remote sensing images| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524000551#b12)/[Project](https://github.com/colacomo/PhDnet)
 
 ------
 
