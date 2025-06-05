@@ -22,7 +22,7 @@
 # 0. Remote Sensing Image Datasets:  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 **No.** |**Dataset** | **Year** | **Pub.** |**Size** |  **Types** | **Download**
 :-: | :-: | :-: | :-:  | :-:  | :-: | :-:
-01   | [**SateHaze1k**](https://openaccess.thecvf.com/content_WACV_2020/papers/Huang_Single_Satellite_Optical_Imagery_Dehazing_using_SAR_Image_Prior_Based_WACV_2020_paper.pdf) | 2017 | WACV | 400*3 | Synthetic | -  | [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
+01   | [**SateHaze1k**](https://openaccess.thecvf.com/content_WACV_2020/papers/Huang_Single_Satellite_Optical_Imagery_Dehazing_using_SAR_Image_Prior_Based_WACV_2020_paper.pdf) | 2017 | WACV | 400*3 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
 02   | [**RICE**](https://arxiv.org/abs/1901.00600) | 2019 | arXiv | 950 | Synthetic  | [link](https://github.com/BUPTLdy/RICE_DATASET) 
 03 | [**AID**](https://ieeexplore.ieee.org/document/7907303) | 2017 | TGRS | 10000 | Synthetic  | [link](https://opendatalab.org.cn/OpenDataLab/AID) 
 04 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 54000 | Real | [link](https://github.com/IDKiro/DehazeFormer) 
