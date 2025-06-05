@@ -84,22 +84,25 @@
 09 | 2022 |SG-Net | ISPRS |A spectral grouping-based deep learning model for haze removal of hyperspectral images| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622001046)/[Project](https://github.com/SZU-AdvTech-2022/158-A-Spectral-Grouping-based-Deep-Learning-Model-for-Haze-Removal-of-Hyperspectral-Images)
 10 | 2022 |GLF-CR | ISPRS |GLF-CR: SAR-enhanced cloud removal with global–local fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002064)/[Project](https://github.com/xufangchn/GLF-CR)
 11 | 2022 |mutually beneficial guides | ISPRS |Semi-supervised thin cloud removal with mutually beneficial guides| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002350)/[Project]
-12 | 2023 |CP-FFCN | ISPRS |Blind single-image-based thin cloud removal using a cloud perception integrated fast Fourier convolutional network| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623002903)/[Project]
+12 | 2022 |NE module | CVPRW |Nonuniformly Dehaze Network for Visible Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/9857255)/[Project]
 13 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
 14 | 2023 |EMPF-Net | TGRS |Encoder-free multiaxis physics-aware fusion network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10287960)/[Project](https://github.com/chdwyb/EMPF-Net)
 15 | 2023 |SFAN | TGRS |Spatial-frequency adaptive remote sensing image dehazing with mixture of experts| [Paper](https://ieeexplore.ieee.org/abstract/document/10679156)/[Project](https://github.com/it-hao/SFAN)
 16 | 2023 |PSMB-Net | TGRS |Partial siamese with multiscale bi-codec networks for remote sensing image haze removal| [Paper](https://ieeexplore.ieee.org/abstract/document/10268954)/[Project](https://github.com/thislzm/PSMB-Net)
 17 | 2023 |HS2P | Information Fusion |HS2P: Hierarchical spectral and structure-preserving fusion network for multimodal remote sensing image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523000453)/[Project](https://github.com/weifanyi515/HS2P)
-18 | 2024 |ICL-Net | JSTARS |ICL-Net: Inverse cognitive learning network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10665990)/[Project]
+18 | 2023 |CP-FFCN | ISPRS |Blind single-image-based thin cloud removal using a cloud perception integrated fast Fourier convolutional network| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623002903)/[Project]
 19 | 2024 |EDED-Net | Remote Sensing |End-to-end detail-enhanced dehazing network for remote sensing images| [Paper](https://www.mdpi.com/2072-4292/16/2/225)/[Project]
 20 | 2024 |ConvIR | TPAMI |Revitalizing Convolutional Network for Image Restoration| [Paper](https://ieeexplore.ieee.org/abstract/document/10571568)/[Project](https://github.com/c-yn/ConvIR)
 21 | 2024 |PhDnet | Information Fusion |PhDnet: A novel physic-aware dehazing network for remote sensing images| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524000551#b12)/[Project](https://github.com/colacomo/PhDnet)
 22 | 2024 |HyperDehazeNet | ISPRS |HyperDehazing: A hyperspectral image dehazing benchmark dataset and a deep learning model for haze removal| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003721)/[Project]
 23 | 2024 |HDRSA-Net | ISPRS |HDRSA-Net: Hybrid dynamic residual self-attention network for SAR-assisted optical image cloud and shadow removal| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624004039)/[Project](https://github.com/RSIIPAC/LuojiaSET-OSFCR)
-24 | 2025 |BMFH-Net | TCSVT |Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing| [Paper](https://ieeexplore.ieee.org/document/11006655)/[Project](https://github.com/zqf2024/BMFH-Net)
-25 | 2025 |HPN-CR | TGRS | HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal| [Paper](https://ieeexplore.ieee.org/document/10906642)/[Project](https://github.com/G-pz/HPN-CR)
-26 | 2025 |DDIA-CFR | Information Fusion | Breaking through clouds: A hierarchical fusion network empowered by dual-domain cross-modality interactive attention for cloud-free image reconstruction| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524004275)/[Project]
-27 | 2025 |SMDCNet | ISPRS |Cloud removal with optical and SAR imagery via multimodal similarity attention| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001856)/[Project]
+24 | 2024 |ICL-Net | JSTARS |ICL-Net: Inverse cognitive learning network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10665990)/[Project]
+25 | 2024 |C2AIR | WACV |C2AIR: Consolidated Compact Aerial Image Haze Removal| [Paper](https://ieeexplore.ieee.org/document/10484204)/[Project](https://github.com/AshutoshKulkarni4998/C2AIR)
+25 | 2025 |BMFH-Net | TCSVT |Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing| [Paper](https://ieeexplore.ieee.org/document/11006655)/[Project](https://github.com/zqf2024/BMFH-Net)
+26 | 2025 |HPN-CR | TGRS | HPN-CR: Heterogeneous Parallel Network for SAR-Optical Data Fusion Cloud Removal| [Paper](https://ieeexplore.ieee.org/document/10906642)/[Project](https://github.com/G-pz/HPN-CR)
+27 | 2025 |DDIA-CFR | Information Fusion | Breaking through clouds: A hierarchical fusion network empowered by dual-domain cross-modality interactive attention for cloud-free image reconstruction| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524004275)/[Project]
+28 | 2025 |SMDCNet | ISPRS |Cloud removal with optical and SAR imagery via multimodal similarity attention| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001856)/[Project]
+29 | 2025 |MIMJT | ECCV |Satellite Image Dehazing Via Masked Image Modeling and Jigsaw Transformation| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-91838-4_27)/[Project]
 
 
 
@@ -144,6 +147,7 @@
 10 | 2024 | ASTA | GRSL | Additional Self-Attention Transformer With Adapter for Thick Haze Removal |[Paper](https://ieeexplore.ieee.org/document/10443626)/[Project](https://github.com/Eric3200C/ASTA)
 11 | 2024 | Dehaze-TGGAN | TGRS | Dehaze-TGGAN: Transformer-Guide Generative Adversarial Networks With Spatial-Spectrum Attention for Unpaired Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/document/10614150)/[Project]
 12 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
+13 | 2025 | DecloudFormer | Pattern Recognition | DecloudFormer: Quest the key to consistent thin cloud removal of wide-swath multi-spectral images |[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003243)/[Project](https://github.com/N1rv4n4/DecloudFormer)
 
 
 ------
