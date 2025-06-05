@@ -49,21 +49,20 @@
 05 | 2018 | SMIDCP | GRSL | Haze and thin cloud removal via sphere model improved dark channel prior | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
 06 | 2019 | AHE | APCC | Single Image Dehazing Based on Adaptive Histogram Equalization and Linearization of Gamma Correction | [Paper](https://ieeexplore.ieee.org/document/9026457)/[Project]
 07 | 2019 | DADN |Remote Sensing|Single Remote Sensing Image Dehazing Using a Prior-Based Dense Attentive Network|[Paper](https://www.mdpi.com/2072-4292/11/24/3008)/[Project]
-08 | 2020 | URSHR | IEEE Access | A New Haze Removal Algorithm for Single Urban Remote Sensing Image | [Paper](https://ieeexplore.ieee.org/abstract/document/9102275)/[Project]
-09 | 2020 | CR-GAN-PM| ISPRS | Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion |[Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301787)/[Project](https://github.com/Neooolee/CR-GAN-PM)
-10 | 2021 | Kang et al. | TGRS | Fog Model-Based Hyperspectral Image Defogging |[Paper](https://ieeexplore.ieee.org/document/9511329)/[Project]
-11 | 2021 | MDCP | GRSL | A novel thin cloud removal method based on multiscale dark channel prior| [Paper](https://ieeexplore.ieee.org/document/9381399)/[Project] 
-12 | 2022 | CLAHEMSF | MTA | Single image haze removal using contrast limited adaptive histogram equalization based multiscale fusion technique | [Paper](https://link.springer.com/article/10.1007/s11042-021-11890-0)/[Project]
-13 | 2022 | GPD-Net | GRSL | Single Remote Sensing Image Dehazing Using Gaussian and Physics-Guided Process | [Paper](https://ieeexplore.ieee.org/document/9780137)/[Project]
-14 | 2022 | EVPM | Information Sciences | Local patchwise minimal and maximal values prior for single optical remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522004534)/[Project]
-15 | 2022 | IdeRs | Information Sciences | IDeRs: Iterative dehazing method for single remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025519301732)/[Project]
-16 | 2023 | saliency-guided parallel learning mechanism | GRSL | UAV Image Haze Removal Based on Saliency- Guided Parallel Learning Mechanism | [Paper](https://ieeexplore.ieee.org/document/10016637)/[Project]
-17 | 2023 | ED | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
-18 | 2023 | SRD | Remote Sensing | Remote Sensing Image Haze Removal Based on Superpixel | [Paper](https://www.mdpi.com/2072-4292/15/19/4680)/[Project]
-19 | 2023 | Efficient Dehazing Method | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
-20 | 2023 | RLDP | Remote Sensing | Single Remote Sensing Image Dehazing Using Robust Light-Dark Prior | [Paper](https://www.mdpi.com/2072-4292/15/4/938)/[Project]
-21 | 2023 | HALP | TGRS | Remote Sensing Image Dehazing Using  Heterogeneous Atmospheric Light Prior | [Paper](https://ieeexplore.ieee.org/document/10050029)/[Project](https://github.com/foreverfruit/HALP)
-22 | 2024 | ALFE | TGRS | A Remote Sensing Image Dehazing Method Based on Heterogeneous Priors | [Paper](https://ieeexplore.ieee.org/document/10476500 )/[Project] 
+08 | 2020 | CR-GAN-PM| ISPRS | Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion |[Paper](https://www.sciencedirect.com/science/article/pii/S0924271620301787)/[Project](https://github.com/Neooolee/CR-GAN-PM)
+09 | 2021 | Kang et al. | TGRS | Fog Model-Based Hyperspectral Image Defogging |[Paper](https://ieeexplore.ieee.org/document/9511329)/[Project]
+10 | 2021 | MDCP | GRSL | A novel thin cloud removal method based on multiscale dark channel prior| [Paper](https://ieeexplore.ieee.org/document/9381399)/[Project] 
+11 | 2022 | CLAHEMSF | MTA | Single image haze removal using contrast limited adaptive histogram equalization based multiscale fusion technique | [Paper](https://link.springer.com/article/10.1007/s11042-021-11890-0)/[Project]
+12 | 2022 | GPD-Net | GRSL | Single Remote Sensing Image Dehazing Using Gaussian and Physics-Guided Process | [Paper](https://ieeexplore.ieee.org/document/9780137)/[Project]
+13 | 2022 | EVPM | Information Sciences | Local patchwise minimal and maximal values prior for single optical remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522004534)/[Project]
+14 | 2022 | IdeRs | Information Sciences | IDeRs: Iterative dehazing method for single remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0020025519301732)/[Project]
+15 | 2023 | saliency-guided parallel learning mechanism | GRSL | UAV Image Haze Removal Based on Saliency- Guided Parallel Learning Mechanism | [Paper](https://ieeexplore.ieee.org/document/10016637)/[Project]
+16 | 2023 | ED | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
+17 | 2023 | SRD | Remote Sensing | Remote Sensing Image Haze Removal Based on Superpixel | [Paper](https://www.mdpi.com/2072-4292/15/19/4680)/[Project]
+18 | 2023 | Efficient Dehazing Method | JSTARS | Efficient Dehazing Method for Outdoor and Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/document/10122596)/[Project] 
+19 | 2023 | RLDP | Remote Sensing | Single Remote Sensing Image Dehazing Using Robust Light-Dark Prior | [Paper](https://www.mdpi.com/2072-4292/15/4/938)/[Project]
+20 | 2023 | HALP | TGRS | Remote Sensing Image Dehazing Using  Heterogeneous Atmospheric Light Prior | [Paper](https://ieeexplore.ieee.org/document/10050029)/[Project](https://github.com/foreverfruit/HALP)
+21 | 2024 | ALFE | TGRS | A Remote Sensing Image Dehazing Method Based on Heterogeneous Priors | [Paper](https://ieeexplore.ieee.org/document/10476500 )/[Project] 
 
 ------
 
