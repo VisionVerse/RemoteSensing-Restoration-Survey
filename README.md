@@ -4,6 +4,9 @@
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
 
+![avatar](/Taxonomy.jpg)
+**Fig 1.** Overview of deep learning methods for RS dehazing.
+
 
 ## Content:
 
