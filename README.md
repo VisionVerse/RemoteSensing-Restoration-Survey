@@ -1,4 +1,4 @@
-# Remote Sensing Image Dehazing: Recent Progress, Challenges, and Future Directions
+# Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects
 
 :fire::fire: In this review, we have systematically examined **over 100 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing :star2:**more than** 30 Remote Sensing Image Restoration methods. 
 
