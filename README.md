@@ -166,7 +166,7 @@
 06 | 2025 |EMRDM | CVPR | Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space | [Paper](https://arxiv.org/abs/2503.23717)/[Project](https://github.com/Ly403/EMRDM)
 
 ------
-
+aa
 
 # 6. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
@@ -175,9 +175,9 @@
 python evaluate.py -to [ground-truth image path] -td [restored image path]
 ```
 
+**Table 1.** 
+Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
 
-
-**Table 1.** Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
 ![avatar](/res_quantitative.jpg)
 ------
 
