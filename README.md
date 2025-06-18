@@ -142,7 +142,7 @@
 05 | 2023 | Trinity-Net |TGRS | Trinity-Net: Gradient-guided Swin transformer-based remote sensing image dehazing and beyond | [Paper](https://ieeexplore.ieee.org/abstract/document/10149032)/[Project](https://github.com/chi-kaichen/Trinity-Net)
 06 | 2023 | AIDTransformer | WACV | Aerial Image Dehazing with Attentive Deformable Transformers |[Paper](https://ieeexplore.ieee.org/document/10030985)/[Project](https://github.com/AshutoshKulkarni4998/AIDTransformer)
 07 | 2024 | DCR-GLFT |TGRS | Density-aware Cloud Removal of Remote Sensing Imagery Using a Global-Local Fusion Transformer | [Paper](https://ieeexplore.ieee.org/document/10713444)/[Project]
-08 | 2024 |SSGT | JSTARS | SSGT: Spatio-Spectral Guided Transformer for Hyperspectral Image Fusion Joint with Cloud Removal | [Paper](https://ieeexplore.ieee.org/document/10648722)/[Project]
+08 | 2024 |SSGT | JSTARS | SSGT: Spatio-Spectral Guided Transformer for Hyperspectral Image Fusion Joint with Cloud Removal | [Paper](https://ieeexplore.ieee.org/document/10706710)/[Project]
 09 | 2024 |PGSformer| GRSL | Prompt-Guided Sparse Transformer for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10648722)/[Project]
 10 | 2024 | ASTA | GRSL | Additional Self-Attention Transformer With Adapter for Thick Haze Removal |[Paper](https://ieeexplore.ieee.org/document/10443626)/[Project](https://github.com/Eric3200C/ASTA)
 11 | 2024 | Dehaze-TGGAN | TGRS | Dehaze-TGGAN: Transformer-Guide Generative Adversarial Networks With Spatial-Spectrum Attention for Unpaired Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/document/10614150)/[Project]
