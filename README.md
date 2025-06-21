@@ -167,7 +167,7 @@
 06 | 2025 |EMRDM | CVPR | Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space | [Paper](https://arxiv.org/abs/2503.23717)/[Project](https://github.com/Ly403/EMRDM)
 
 ------
-aa
+
 
 # 6. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
@@ -188,7 +188,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 
 # Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-<!--If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and evaluation code are useful, please cite the following paper:
+<!--If you find [our survey paper]() and evaluation code are useful, please cite the following paper:
 ```BibTeX
 
 ```-->
