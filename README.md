@@ -4,7 +4,7 @@
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
 
-![avatar](/Taxonomy.pdf)
+![avatar](/Taxonomy.jpg)
 **Fig 1.** Overview of deep learning methods for RS dehazing.
 
 
@@ -23,19 +23,21 @@
 
 
 # 0. Remote Sensing Image Datasets:  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-**No.** |**Dataset** | **Year** | **Pub.** |**Size** |  **Types** | **Download**
-:-: | :-: | :-: | :-:  | :-:  | :-: | :-:
+**No.** |**Dataset** | **Year** | **Pub.** |**Number** | **Image Size** |  **Types** | **Download**
+:-: | :-: | :-: | :-:  | :-:  | :-:  | :-: | :-:
 01   | [**SateHaze1k**](https://openaccess.thecvf.com/content_WACV_2020/papers/Huang_Single_Satellite_Optical_Imagery_Dehazing_using_SAR_Image_Prior_Based_WACV_2020_paper.pdf) | 2017 | WACV | 400*3 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
-02   | [**RICE**](https://arxiv.org/abs/1901.00600) | 2019 | arXiv | 950 | Synthetic  | [link](https://github.com/BUPTLdy/RICE_DATASET) 
-03 | [**AID**](https://ieeexplore.ieee.org/document/7907303) | 2017 | TGRS | 10000 | Synthetic  | [link](https://opendatalab.org.cn/OpenDataLab/AID) 
-04 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 54000 | Real | [link](https://github.com/IDKiro/DehazeFormer) 
-05 | [**I-HAZE**](https://arxiv.org/abs/1804.05091) | 2018 | ACIVS | 35 | Real  | [link](https://data.vision.ee.ethz.ch/cvl/ntire18//i-haze/) 
-06 | [**O-HAZE**](https://ieeexplore.ieee.org/document/8575270) | 2018 | CVPRW | 45 | Real | [link](https://data.vision.ee.ethz.ch/cvl/ntire18//o-haze/) 
-07 | [**RESIDE**](https://ieeexplore.ieee.org/document/8451944) | 2018 | TIP | 13990 | Synthetic | [link](https://sites.google.com/view/reside-dehaze-datasets) 
-08 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | Synthetic | [link](https://github.com/chi-kaichen/Trinity-Net) 
-09 | [**UBCSet**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2024 | ISPRS | 5911 | Synthetic | [link](https://github.com/Liying-Xu/TCBC) 
-10 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | real |[link](https://github.com/Neooolee/WHUS2-CR)
-11 | [**SEN12MS-CR**](https://patricktum.github.io/cloud_removal/sen12mscr/) | 2018 | - | 122218 | real  |[link](https://patricktum.github.io/cloud_removal/sen12mscr/)
+02   | [**RICE**](https://arxiv.org/abs/1901.00600) | 2019 | arXiv | 950| 512×512 | Synthetic  | [link](https://github.com/BUPTLdy/RICE_DATASET) 
+03 | [**AID**](https://ieeexplore.ieee.org/document/7907303) | 2017 | TGRS | 10000 | 600×600 | Synthetic  | [link](https://opendatalab.org.cn/OpenDataLab/AID) 
+04 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 54000 | 512×512 | Real | [link](https://github.com/IDKiro/DehazeFormer) 
+05 | [**LHID**](https://ieeexplore.ieee.org/document/9895281) | 2022 | TGRS | 31017 | 512×512 | Synthetic | [link](https://github.com/Shan-rs/DCI-Net?tab=readme-ov-file) 
+06 | [**DHID**](https://ieeexplore.ieee.org/document/9895281) | 2022 | TGRS | 14990 | 512×512 | Synthetic | [link](https://github.com/Shan-rs/DCI-Net?tab=readme-ov-file) 
+07 | [**HN-Snowy**](https://www.sciencedirect.com/science/article/pii/S0924271623002903) | 2022 | ISPRS | 1237 | 256×256 | Synthetic | [link](https://github.com/Merryguoguo/CP-FFCN) 
+08 | [**CUHK-CR**](https://ieeexplore.ieee.org/document/10552304) | 2024 | TGRS | 1227 | 256×256 | Synthetic | [link](https://ieeexplore.ieee.org/document/10552304) 
+09 | [**HRSI**](https://ieeexplore.ieee.org/document/10658989) | 2024 | TGRS | 796 | 512×512-4000×4000 | Synthetic | [link](https://ieeexplore.ieee.org/document/10658989) 
+10 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | 256×256 | Synthetic | [link](https://github.com/chi-kaichen/Trinity-Net) 
+11 | [**UBCSet**](https://www.sciencedirect.com/science/article/pii/S0924271624003460) | 2024 | ISPRS | 5911 | 256×256 | Synthetic | [link](https://github.com/Liying-Xu/TCBC) 
+12 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | real | 64×64-384×384 |[link](https://github.com/Neooolee/WHUS2-CR)
+13 | [**SEN12MS-CR**](https://patricktum.github.io/cloud_removal/sen12mscr/) | 2018 | - | 122218 | 256×256 | real  |[link](https://patricktum.github.io/cloud_removal/sen12mscr/)
 
 ------
 
