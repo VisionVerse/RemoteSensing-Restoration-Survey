@@ -85,7 +85,7 @@
 08 | 2022 |DCIL | TGRS |Dense haze removal based on dynamic collaborative inference learning for remote sensing images| [Paper](https://ieeexplore.ieee.org/document/9895281)/[Project](https://github.com/Shan-rs/DCI-Net)
 09 | 2022 |SG-Net | ISPRS P&RS |A spectral grouping-based deep learning model for haze removal of hyperspectral images| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622001046)/[Project](https://github.com/SZU-AdvTech-2022/158-A-Spectral-Grouping-based-Deep-Learning-Model-for-Haze-Removal-of-Hyperspectral-Images)
 10 | 2022 |GLF-CR | ISPRS P&RS |GLF-CR: SAR-enhanced cloud removal with global–local fusion| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002064)/[Project](https://github.com/xufangchn/GLF-CR)
-11 | 2022 |mutually beneficial guides | ISPRS P&RS |Semi-supervised thin cloud removal with mutually beneficial guides| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002350)/[Project]
+11 | 2022 |MBG-CR | ISPRS P&RS |Semi-supervised thin cloud removal with mutually beneficial guides| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271622002350)/[Project]
 12 | 2022 |NE module | CVPRW |Nonuniformly Dehaze Network for Visible Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/document/9857255)/[Project]
 13 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
 14 | 2023 |EMPF-Net | TGRS |Encoder-free multiaxis physics-aware fusion network for remote sensing image dehazing| [Paper](https://ieeexplore.ieee.org/document/10287960)/[Project](https://github.com/chdwyb/EMPF-Net)
@@ -124,7 +124,7 @@
 04 | 2020 | SpA-GAN| arXiv | Cloud Removal for Remote Sensing Imagery via Spatial Attention Generative Adversarial Network | [Paper](https://arxiv.org/abs/2009.13015)/[Project](https://github.com/Penn000/SpA-GAN_for_cloud_removal)
 05 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
 06 | 2020 | SScGAN | WACV | Single Satellite Optical Imagery Dehazing using SAR Image Prior Based on conditional Generative Adversarial Networks | [Paper](https://ieeexplore.ieee.org/document/9093471)/[Project]
-07 | 2021 | Darbaghshahi et al. | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
+07 | 2021 | SAR2Opt-GAN-CR | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
 08 | 2021 | SkyGAN | WACV | Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9423159)/[Project]
 09 | 2022 |Dehaze-AGGAN| TGRS | Dehaze-AGGAN: Unpaired remote sensing image dehazing using enhanced attention-guide generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/9881213)/[Project]
 10 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
