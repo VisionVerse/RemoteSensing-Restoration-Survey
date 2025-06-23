@@ -25,7 +25,7 @@
 # 0. Remote Sensing Image Datasets:  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 **No.** |**Dataset** | **Year** | **Pub.** |**Number** | **Image Size** |  **Types** | **Download**
 :-: | :-: | :-: | :-:  | :-:  | :-:  | :-: | :-:
-01   | [**SateHaze1k**](https://openaccess.thecvf.com/content_WACV_2020/papers/Huang_Single_Satellite_Optical_Imagery_Dehazing_using_SAR_Image_Prior_Based_WACV_2020_paper.pdf) | 2017 | WACV | 400*3 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
+01   | [**SateHaze1k**](https://ieeexplore.ieee.org/document/9093471) | 2017 | WACV | 400*3 | 512×512 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
 02   | [**RICE**](https://arxiv.org/abs/1901.00600) | 2019 | arXiv | 950| 512×512 | Synthetic  | [link](https://github.com/BUPTLdy/RICE_DATASET) 
 03 | [**AID**](https://ieeexplore.ieee.org/document/7907303) | 2017 | TGRS | 10000 | 600×600 | Synthetic  | [link](https://opendatalab.org.cn/OpenDataLab/AID) 
 04 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 54000 | 512×512 | Real | [link](https://github.com/IDKiro/DehazeFormer) 
@@ -36,7 +36,7 @@
 09 | [**HRSI**](https://ieeexplore.ieee.org/document/10658989) | 2024 | TGRS | 796 | 512×512-4000×4000 | Synthetic | [link](https://ieeexplore.ieee.org/document/10658989) 
 10 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | 256×256 | Synthetic | [link](https://github.com/chi-kaichen/Trinity-Net) 
 11 | [**UBCSet**](https://www.sciencedirect.com/science/article/pii/S0924271624003460) | 2024 | ISPRS | 5911 | 256×256 | Synthetic | [link](https://github.com/Liying-Xu/TCBC) 
-12 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | real | 64×64-384×384 |[link](https://github.com/Neooolee/WHUS2-CR)
+12 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | 64×64-384×384 | real |[link](https://github.com/Neooolee/WHUS2-CR)
 13 | [**SEN12MS-CR**](https://patricktum.github.io/cloud_removal/sen12mscr/) | 2018 | - | 122218 | 256×256 | real  |[link](https://patricktum.github.io/cloud_removal/sen12mscr/)
 
 ------
