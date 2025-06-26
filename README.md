@@ -17,7 +17,8 @@
 4. <a href="#Transformer">Transformer - based Remote Sensing Image Restoration Methods </a>
 5. <a href="#Diffusion"> Diffusion-based Remote Sensing Image Restoration Methods</a>
 6. <a href="#evaluation"> Evaluation </a>
-7. <a href="#citation"> Citation </a>
+7. <a href="#prospects"> Current Challenges and Future Prospects </a>
+8. <a href="#citation"> Citation </a>
 
 ------
 
@@ -187,13 +188,13 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 
 ------
 
-# Current Challenges and Future Prospects
+# 7. Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ![avatar](/prospects.jpg)
 **Fig 1.** The outlines of current challenges and future prospects in RS image restoration. 
     We reorganize the representative challenges into three overarching directions: 
 Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented Design.
 
-
+prospects
 
 ---------------------
 
