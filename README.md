@@ -18,7 +18,7 @@
 5. <a href="#Diffusion"> Diffusion-based Remote Sensing Image Restoration Methods</a>
 6. <a href="#evaluation"> Evaluation </a>
 7. <a href="#prospects"> Current Challenges and Future Prospects </a>
-8. <a href="#citation"> Citation </a>
+
 
 ------
 
