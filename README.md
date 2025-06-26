@@ -187,6 +187,15 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 
 ------
 
+# Current Challenges and Future Prospects
+![avatar](/prospects.jpg)
+**Fig 1.** The outlines of current challenges and future prospects in RS image restoration. 
+    We reorganize the representative challenges into three overarching directions: 
+Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented Design.
+
+
+
+---------------------
 
 # Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
