@@ -190,6 +190,7 @@ Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented D
 python evaluate.py -to [ground-truth image path] -td [restored image path]
 ```
 
+Make sure the file structure is consistent with the following:
 ```python
 └── Dataset
     ├── ERICE
