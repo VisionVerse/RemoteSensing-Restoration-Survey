@@ -200,23 +200,26 @@ Make sure the file structure is consistent with the following:
     │   └── Train
     │       ├── GT
     │       └── Haze
-    └── HazyRemoteSensingDatasets
-        ├── DHID
-        │   ├── TestingSet
-        │   │   └── Test
-        │   │       ├── GT
-        │   │       └── Haze
-        │   └── TrainingSet
-        │       ├── GT
-        │       └── Haze
-        └── LHID
-            ├── TestingSet
-            │   └── Merge
-            │       ├── GT
-            │       └── Haze
-            └── TrainingSet
-                ├── GT
-                └── Haze
+    ├── HazyRemoteSensingDatasets
+    │   ├── DHID
+    │   │   ├── TestingSet
+    │   │   │   └── Test
+    │   │   │       ├── GT
+    │   │   │       └── Haze
+    │   │   └── TrainingSet
+    │   │       ├── GT
+    │   │       └── Haze
+    │   └── LHID
+    │        ├── TestingSet
+    │        │   └── Merge
+    │        │       ├── GT
+    │        │       └── Haze
+    │        └── TrainingSet
+    │                ├── GT
+    │                └── Haze
+    ├── SateHaze1k
+    │   ├── ...
+
 ```
 **Table 1.** 
 Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
