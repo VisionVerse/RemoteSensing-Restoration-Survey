@@ -174,7 +174,7 @@
 
 # 6. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-* For evaluation on **Dehazed** results, modify 'test_original' and 'test_restored' to the corresponding path
+:bar_chart: For evaluation on **Dehazed** results, modify 'test_original' and 'test_restored' to the corresponding path
 ```python
 python evaluate.py -to [ground-truth image path] -td [restored image path]
 ```
@@ -197,7 +197,7 @@ Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented D
 
 ---------------------
 
-# Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# :books: Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 <!--If you find [our survey paper]() and evaluation code are useful, please cite the following paper:
 ```BibTeX
