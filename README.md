@@ -23,7 +23,7 @@
 ------
 
 
-# 0. Remote Sensing Image Datasets:  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# :open_file_folder: Remote Sensing Image Datasets:  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 **No.** |**Dataset** | **Year** | **Pub.** |**Number** | **Image Size** |  **Types** | **Download**
 :-: | :-: | :-: | :-:  | :-:  | :-:  | :-: | :-:
 01   | [**SateHaze1k**](https://ieeexplore.ieee.org/document/9093471) | 2017 | WACV | 400*3 | 512×512 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
@@ -188,7 +188,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 
 ------
 
-# 7. Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# 7. :surfer: Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ![avatar](/prospects.jpg)
 **Fig 1.** The outlines of current challenges and future prospects in RS image restoration. 
     We reorganize the representative challenges into three overarching directions: 
