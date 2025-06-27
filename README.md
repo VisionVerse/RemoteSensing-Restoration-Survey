@@ -194,7 +194,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     We reorganize the representative challenges into three overarching directions: 
 Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented Design.
 
-prospects
 
 ---------------------
 
