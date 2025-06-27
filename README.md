@@ -172,9 +172,9 @@
 ------
 
 
-# 6. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 6. :bar_chart: Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-:bar_chart: For evaluation on **Dehazed** results, modify 'test_original' and 'test_restored' to the corresponding path
+ For evaluation on **Dehazed** results, modify 'test_original' and 'test_restored' to the corresponding path
 ```python
 python evaluate.py -to [ground-truth image path] -td [restored image path]
 ```
