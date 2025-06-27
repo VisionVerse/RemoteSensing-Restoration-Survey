@@ -8,7 +8,7 @@
 
 
 ![avatar](/Taxonomy.jpg)
-**Fig 1.** Overview of deep learning methods for RS dehazing.
+**Fig 1.** Taxonomy of Remote Sensing Image Dehazing Methods.
 
 
 ## Content:
