@@ -12,10 +12,10 @@
 
 0. <a href="#Datasets">Remote Sensing Image Datasets</a>
 1. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
-2. <a href="#CNNmodels"> CNN - based Remote Sensing Image Restoration Methods </a>
-3. <a href="#GANmodels">GAN - based Remote Sensing Image Restoration Methods </a>
-4. <a href="#Transformer">Transformer - based Remote Sensing Image Restoration Methods </a>
-5. <a href="#Diffusion"> Diffusion-based Remote Sensing Image Restoration Methods</a>
+2. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
+3. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
+4. <a href="#Transformer"> Vision Transformer in Remote Sensing Image Dehazing </a>
+5. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
 6. <a href="#evaluation"> Evaluation </a>
 7. <a href="#prospects"> Current Challenges and Future Prospects </a>
 
@@ -71,7 +71,7 @@
 ------
 
 
-# 2. CNN-based Models:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 2. Deep Convolution for Remote Sensing Image Dehazing:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-06-23) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -113,7 +113,7 @@
 ------
 
 
-# 3. GAN-based Methods:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 3. Adversarial Generation for Remote Sensing Image Dehazing:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 :rocket::rocket::rocket:Update (in 2025-06-23) :balloon:
 
@@ -134,7 +134,7 @@
 ------
 
 
-# 4. Transformer-based Methods:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 4. Vision Transformer in Remote Sensing Image Dehazing:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-06-23) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -157,7 +157,7 @@
 ------
 
 
-#  5. Diffusion-based Methods:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+#  5. Diffusion Generation for Remote Sensing Image Dehazing:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-06-23) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
