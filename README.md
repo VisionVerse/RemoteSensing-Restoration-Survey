@@ -16,8 +16,8 @@
 3. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
 4. <a href="#Transformer"> Vision Transformer in Remote Sensing Image Dehazing </a>
 5. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
-6. <a href="#evaluation"> Evaluation </a>
-7. <a href="#prospects"> Current Challenges and Future Prospects </a>
+6. <a href="#prospects"> Current Challenges and Future Prospects </a>
+7. <a href="#evaluation"> Evaluation </a>
 
 
 ------
@@ -173,7 +173,7 @@
 
 ------
 
-# :surfer: Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# 6. :surfer: Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ![avatar](/prospects.jpg)
 **Fig 1.** The outlines of current challenges and future prospects in RS image restoration. 
     We reorganize the representative challenges into three overarching directions: 
@@ -183,7 +183,7 @@ Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented D
 ------
 
 
-# 6. :bar_chart: Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# :bar_chart: Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
  For evaluation on **Dehazed** results, modify 'test_original' and 'test_restored' to the corresponding path
 ```python
