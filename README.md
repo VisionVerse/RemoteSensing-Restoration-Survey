@@ -190,6 +190,33 @@ Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented D
 python evaluate.py -to [ground-truth image path] -td [restored image path]
 ```
 
+```python
+└── Dataset
+    ├── ERICE
+    │   ├── Test
+    │   │   ├── GT
+    │   │   └── Haze
+    │   └── Train
+    │       ├── GT
+    │       └── Haze
+    └── HazyRemoteSensingDatasets
+        ├── DHID
+        │   ├── TestingSet
+        │   │   └── Test
+        │   │       ├── GT
+        │   │       └── Haze
+        │   └── TrainingSet
+        │       ├── GT
+        │       └── Haze
+        └── LHID
+            ├── TestingSet
+            │   └── Merge
+            │       ├── GT
+            │       └── Haze
+            └── TrainingSet
+                ├── GT
+                └── Haze
+```
 **Table 1.** 
 Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
 
