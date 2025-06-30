@@ -32,7 +32,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 1. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
 2. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
 3. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
-4. <a href="#Transformer"> Vision Transformer in Remote Sensing Image Dehazing </a>
+4. <a href="#Transformer"> Vision Transformer for Remote Sensing Image Dehazing </a>
 5. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
 6. <a href="#prospects"> Current Challenges and Future Prospects </a>
 7. <a href="#evaluation"> Evaluation </a>
@@ -61,7 +61,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 ------
 
 
-# 1. Traditional Methods:  <a id="Traditional Methods" class="anchor" href="#Traditional Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 1. Traditional Image Enhancement and Physics Model for Remote Sensing Image Dehazing:  <a id="Traditional Methods" class="anchor" href="#Traditional Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-06-30) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
