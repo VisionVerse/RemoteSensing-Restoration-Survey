@@ -1,7 +1,9 @@
 # Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey)
 
 ## :mega: News
-- **2025/06/28**: Paper Submitted
+- **2025/06/28**: Paper submitted.
+- **2025/05/15**: Added 2 CVPR 2025 papers.
+
 
 For the purposes of this review, **we adopt an inclusive definition of “dehazing” that encompasses all methodologies designed to mitigate the effects of fog, haze, and optically cloud layers.**
 In this review, we have systematically examined **over 200 papers** :scroll::scroll::scroll:, summarizing and analyzing **more than** 80 Remote Sensing Image Dehazing methods. 
