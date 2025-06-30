@@ -1,6 +1,6 @@
 # Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey)
 
-:fire::fire: In this review, we have systematically examined **over 100 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing **more than** 30 Remote Sensing Image Restoration methods. 
+:fire::fire: In this review, we have systematically examined **over 200 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing **more than** 80 Remote Sensing Image Restoration methods. 
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
 
