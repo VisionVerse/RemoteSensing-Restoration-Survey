@@ -16,10 +16,10 @@ Extensive qualitative and quantitative comparisons have been conducted against t
 ## :pizza: Introduction
 Remote sensing images (RSIs) are frequently degraded by atmospheric interferences such as haze, fog, and thin clouds, which significantly hinder surface observation and subsequent analytical tasks. 
 As a vital preprocessing step, image dehazing plays a critical role in improving data usability for applications including environmental monitoring, disaster response, and military reconnaissance.
-This paper presents a comprehensive and in-depth survey of recent developments in RSIs dehazing, covering traditional image enhancement and physics models, as well as state-of-the-art deep learning frameworks, including deep convolution, adversarial generation, vision Transformer, and diffusion generation.
+As show in Fig. 1, this paper presents a comprehensive and in-depth survey of recent developments in RSIs dehazing, covering traditional image enhancement and physics models, as well as state-of-the-art deep learning frameworks, including deep convolution, adversarial generation, vision Transformer, and diffusion generation.
 We not only categorize and summarize representative algorithms but also provide a detailed comparative analysis of their strengths and limitations from algorithmic, theoretical, and application perspectives.
 To provide a practical reference for performance evaluation, we conduct large-scale quantitative and qualitative experiments on four public datasets: SateHaze1k, RICE, LHID, and DHID, enabling fair and reproducible benchmarking of various dehazing methods.
-In addition, we discuss key technical challenges, such as dynamic atmospheric modeling, multi-modal data fusion, lightweight model design, data scarcity, and joint degradation scenarios, and propose future research directions.
+In addition, we discuss key technical challenges in Fig.2, such as dynamic atmospheric modeling, multi-modal data fusion, lightweight model design, data scarcity, and joint degradation scenarios, and propose future research directions.
 
 
 ![avatar](/Taxonomy.jpg)
