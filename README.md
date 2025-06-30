@@ -250,7 +250,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 
 # :books: Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-<!--If you find [our survey paper]() and evaluation code are useful, please cite the following paper:
+--If you find [our survey paper]() and evaluation code are useful, please cite the following paper:
 ```BibTeX
 @article{rsiDehazing,
   title={Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects},
