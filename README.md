@@ -152,7 +152,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 ------
 
 
-# 4. Vision Transformer in Remote Sensing Image Dehazing:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 4. Vision Transformer for Remote Sensing Image Dehazing:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2025-06-27) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
