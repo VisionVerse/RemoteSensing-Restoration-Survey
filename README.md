@@ -277,12 +277,9 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 @article{rsiDehazing,
   title={Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects},
   author={Zhou, Heng and Liu, Xiaoxiong and Zhang, Zhenxi and Li, Chengyang and Yun, Jieheng and Yang, Yunchu and Tian, Chunna and Wu, Xiao-Jun},
-  journal={},
-  volume={},
-  number={},
-  pages={},
-  year={},
-  publisher={arXiv}
+  journal={arXiv preprint arXiv:},
+  pages={1--56},
+  year={2025},
 }
 ```
 
