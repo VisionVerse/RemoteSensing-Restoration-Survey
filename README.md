@@ -295,7 +295,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
   number={},
   pages={},
   year={},
-  publisher={}
+  publisher={arXiv}
 }
 ```
 
