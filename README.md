@@ -241,43 +241,6 @@ Make sure the file structure is consistent with the following:
 **Table 1.** 
 Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
 
-<table border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <th rowspan="2">Methods</th>
-    <th rowspan="2">Category</th>
-    <th colspan="2">SH-TN</th>
-    <th colspan="2">SH-M</th>
-    <th colspan="2">SH-TK</th>
-    <th colspan="2">RICE</th>
-  </tr>
-  <tr>
-    <th>PSNR</th><th>SSIM</th>
-    <th>PSNR</th><th>SSIM</th>
-    <th>PSNR</th><th>SSIM</th>
-    <th>PSNR</th><th>SSIM</th>
-  </tr>
-
-  <tr><td>SMIDCP</td><td>Traditional</td><td>13.639</td><td>0.833</td><td>15.990</td><td>0.863</td><td>14.956</td><td>0.757</td><td>16.573</td><td>0.712</td></tr>
-  <tr><td>EVPM</td><td>Traditional</td><td>20.426</td><td>0.891</td><td>20.656</td><td>0.918</td><td>16.647</td><td>0.787</td><td>15.217</td><td>0.742</td></tr>
-  <tr><td>IeRs</td><td>Traditional</td><td>15.048</td><td>0.772</td><td>14.763</td><td>0.785</td><td>11.754</td><td>0.702</td><td>15.750</td><td>0.611</td></tr>
-  <tr><td>GRS-HTM</td><td>Traditional</td><td>15.489</td><td>0.762</td><td>15.071</td><td>0.784</td><td>10.473</td><td>0.462</td><td>18.278</td><td>0.825</td></tr>
-  <tr><td>SRD</td><td>Traditional</td><td>21.327</td><td><b>0.896</b></td><td>20.774</td><td>0.930</td><td>17.265</td><td>0.814</td><td>20.550</td><td><b>0.896</b></td></tr>
-  <tr><td>DHIM</td><td>Traditional</td><td>19.445</td><td>0.891</td><td>19.916</td><td>0.917</td><td>16.595</td><td>0.810</td><td>19.240</td><td>0.882</td></tr>
-  <tr><td>EMPF-Net</td><td>CNN</td><td><b>27.400</b></td><td>0.960</td><td><b>31.450</b></td><td>0.975</td><td>26.330</td><td>0.928</td><td>35.845</td><td><b>0.979</b></td></tr>
-  <tr><td>SFAN</td><td>CNN</td><td>23.688</td><td><b>0.963</b></td><td>28.191</td><td><b>0.977</b></td><td>23.006</td><td><b>0.942</b></td><td>35.374</td><td>0.941</td></tr>
-  <tr><td>ICL-Net</td><td>CNN</td><td>24.590</td><td>0.923</td><td>25.670</td><td>0.937</td><td>21.780</td><td>0.859</td><td><b>36.940</b></td><td>0.960</td></tr>
-  <tr><td>FCTF-Net</td><td>CNN</td><td>23.590</td><td>0.913</td><td>22.880</td><td>0.927</td><td>20.030</td><td>0.816</td><td>25.535</td><td>0.870</td></tr>
-  <tr><td>PSMB-Net</td><td>CNN</td><td>22.946</td><td>0.949</td><td>27.921</td><td>0.960</td><td>21.273</td><td>0.919</td><td>28.057</td><td>0.893</td></tr>
-  <tr><td>DCIL</td><td>CNN</td><td>20.187</td><td>0.947</td><td>27.431</td><td>0.964</td><td>21.450</td><td>0.926</td><td>27.720</td><td>0.876</td></tr>
-  <tr><td>EDED-Net</td><td>CNN</td><td>24.605</td><td>0.893</td><td>25.360</td><td>0.913</td><td>22.418</td><td>0.846</td><td>31.907</td><td>0.945</td></tr>
-  <tr><td>TransRA</td><td>Transformer</td><td>25.200</td><td>0.930</td><td>26.500</td><td>0.947</td><td>22.730</td><td>0.875</td><td>31.130</td><td>0.955</td></tr>
-  <tr><td>PGSformer</td><td>Transformer</td><td>25.534</td><td>0.918</td><td>26.622</td><td>0.933</td><td>23.596</td><td>0.863</td><td>34.404</td><td>0.948</td></tr>
-  <tr><td>Trinity-Net</td><td>Transformer</td><td>21.304</td><td>0.946</td><td>26.473</td><td><b>0.963</b></td><td>20.756</td><td>0.915</td><td>29.248</td><td>0.908</td></tr>
-  <tr><td>RSDformer</td><td>Transformer</td><td>24.210</td><td>0.912</td><td>26.241</td><td>0.934</td><td>23.011</td><td>0.853</td><td>33.013</td><td>0.953</td></tr>
-  <tr><td>ARDD-Net</td><td>Diffusion</td><td>26.840</td><td>0.926</td><td>26.470</td><td>0.932</td><td><b>26.830</b></td><td><b>0.932</b></td><td>-</td><td>-</td></tr>
-  <tr><td>ADND-Net</td><td>Diffusion</td><td><b>26.910</b></td><td>0.927</td><td>26.670</td><td>0.936</td><td><b>26.940</b></td><td><b>0.936</b></td><td>-</td><td>-</td></tr>
-  <tr><td>RSHazeDiff</td><td>Diffusion</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><b>36.560</b></td><td>0.958</td></tr>
-</table>
 
 
 
@@ -289,7 +252,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 ```BibTeX
 @article{rsiDehazing,
   title={Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects},
-  author={},
+  author={Zhou, Heng and Liu, Xiaoxiong and Zhang, Zhenxi and Li, Chengyang and Yun, Jieheng and Yang, Yunchu and Tian, Chunna and Wu, Xiao-Jun},
   journal={},
   volume={},
   number={},
