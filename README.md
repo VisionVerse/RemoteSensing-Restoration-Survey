@@ -1,7 +1,7 @@
 # Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey)
 
 ## :mega: News
-- **2025/07/22**: Added 3 TGRS 2025 papers;Added 1 EAAI 2025 papers;Added 1 ISPRS P&RS 2024 papers;Added 1 Signal Processing 2025 papers.
+- **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 papers, 1 ISPRS P&RS 2024 papers and 1 Signal Processing 2025 papers.
 - **2025/06/28**: Paper submitted.
 - **2025/05/15**: Added 2 CVPR 2025 papers.
 
@@ -62,7 +62,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 1. Traditional Image Enhancement and Physics Model for Remote Sensing Image Dehazing:  <a id="Traditional Methods" class="anchor" href="#Traditional Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-06-30) :balloon:
+:rocket::rocket::rocket:Update (in 2025-07-22) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -90,7 +90,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 2. Deep Convolution for Remote Sensing Image Dehazing:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-06-23) :balloon:
+:rocket::rocket::rocket:Update (in 2025-07-22) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -134,7 +134,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 # 3. Adversarial Generation for Remote Sensing Image Dehazing:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-:rocket::rocket::rocket:Update (in 2025-06-28) :balloon:
+:rocket::rocket::rocket:Update (in 2025-07-22) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -157,7 +157,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 4. Vision Transformer for Remote Sensing Image Dehazing:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-06-27) :balloon:
+:rocket::rocket::rocket:Update (in 2025-07-22) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -182,7 +182,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 #  5. Diffusion Generation for Remote Sensing Image Dehazing:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-06-27) :balloon:
+:rocket::rocket::rocket:Update (in 2025-07-22) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
