@@ -124,6 +124,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 29 | 2025 |DDIA-CFR | Information Fusion | Breaking through clouds: A hierarchical fusion network empowered by dual-domain cross-modality interactive attention for cloud-free image reconstruction| [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524004275)/[Project]
 30 | 2025 |SMDCNet | ISPRS P&RS |Cloud removal with optical and SAR imagery via multimodal similarity attention| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001856)/[Project]
 31 | 2025 |MIMJT | ECCV |Satellite Image Dehazing Via Masked Image Modeling and Jigsaw Transformation| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-91838-4_27)/[Project]
+32 | 2025 |MCAF-Net | TGRS |Real-World Remote Sensing Image Dehazing: Benchmark and Baseline| [Paper](https://ieeexplore.ieee.org/abstract/document/11058953)/[Project](https://github.com/lwCVer/RRSHID)
 
 
 
@@ -147,6 +148,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 09 | 2022 |Dehaze-AGGAN| TGRS | Dehaze-AGGAN: Unpaired remote sensing image dehazing using enhanced attention-guide generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/9881213)/[Project]
 10 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
 11 | 2025 | MT_GAN | ISPRS P&RS | MT_GAN: A SAR-to-optical image translation method for cloud removal | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001479)/[Project](https://github.com/NUAA-RS/MT_GAN)
+12 | 2025 | UTCR-Dehaze | EAAI | UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625013879)/[Project]
 
 ------
 
@@ -169,6 +171,8 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 11 | 2024 | Dehaze-TGGAN | TGRS | Dehaze-TGGAN: Transformer-Guide Generative Adversarial Networks With Spatial-Spectrum Attention for Unpaired Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/document/10614150)/[Project]
 12 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
 13 | 2025 | DecloudFormer | Pattern Recognition | DecloudFormer: Quest the key to consistent thin cloud removal of wide-swath multi-spectral images |[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003243)/[Project](https://github.com/N1rv4n4/DecloudFormer)
+14 | 2025 | CINet | TGRS | Cross-Level Interaction and Intralevel Fusion Network for Remote Sensing Image Dehazing |[Paper](https://ieeexplore.ieee.org/abstract/document/11026022)/[Project]
+15 | 2025 | MABDT | Signal Processing | MABDT: Multi-scale attention boosted deformable transformer for remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168424003888)/[Project](https://github.com/ningjin00/MABDT)
 
 
 ------
@@ -185,6 +189,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 04 | 2024 |RSHazeDiff | T-ITS | RSHazeDiff: A unified Fourier-aware diffusion model for remote sensing image dehazing | [Paper](https://ieeexplore.ieee.org/document/10747754)/[Project](https://github.com/jm-xiong/RSHazeDiff)
 05 | 2024 |IDF-CR | TGRS | IDF-CR: Iterative diffusion process for divide-and-conquer cloud removal in remote-sensing images | [Paper](https://ieeexplore.ieee.org/abstract/document/10474382)/[Project](https://github.com/SongYxing/IDF-CR)
 06 | 2025 |EMRDM | CVPR | Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space | [Paper](https://arxiv.org/abs/2503.23717)/[Project](https://github.com/Ly403/EMRDM)
+07 | 2025 |DFG-DDM | TGRS | DFG-DDM: Deep Frequency-Guided Denoising Diffusion Model for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11071917)/[Project](https://github.com/Junjie-LLL/DFG-DDM)
 
 
 
