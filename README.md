@@ -1,9 +1,5 @@
 # Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey)
 
-## :mega: News
-- **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 papers, 1 ISPRS P&RS 2024 papers and 1 Signal Processing 2025 papers.
-- **2025/06/28**: Paper submitted.
-- **2025/05/15**: Added 2 CVPR 2025 papers.
 
 
 For the purposes of this review, **we adopt an inclusive definition of “dehazing” that encompasses all methodologies designed to mitigate the effects of fog, haze, and optically cloud layers.**
@@ -11,6 +7,10 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
+## :mega: News
+- **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 papers, 1 ISPRS P&RS 2024 papers and 1 Signal Processing 2025 papers.
+- **2025/06/28**: Paper submitted.
+- **2025/05/15**: Added 2 CVPR 2025 papers.
 
 
 ## :pizza: Introduction
