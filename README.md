@@ -126,6 +126,10 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 30 | 2025 |SMDCNet | ISPRS P&RS |Cloud removal with optical and SAR imagery via multimodal similarity attention| [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001856)/[Project]
 31 | 2025 |MIMJT | ECCV |Satellite Image Dehazing Via Masked Image Modeling and Jigsaw Transformation| [Paper](https://link.springer.com/chapter/10.1007/978-3-031-91838-4_27)/[Project]
 32 | 2025 |MCAF-Net | TGRS |Real-World Remote Sensing Image Dehazing: Benchmark and Baseline| [Paper](https://ieeexplore.ieee.org/abstract/document/11058953)/[Project](https://github.com/lwCVer/RRSHID)
+33 | 2025 |DFDNet | JSTARS |Density-Guided and Frequency Modulation Dehazing Network for Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/abstract/document/10946836)/[Project]
+34 | 2025 |CCHD | GRSL |CCHD: Chain Connection and Hybrid Dense Attention for Remote Sensing Dehazing
+| [Paper](https://ieeexplore.ieee.org/abstract/document/11003077)/[Project]
+
 
 
 
@@ -176,6 +180,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 13 | 2025 | DecloudFormer | Pattern Recognition | DecloudFormer: Quest the key to consistent thin cloud removal of wide-swath multi-spectral images |[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003243)/[Project](https://github.com/N1rv4n4/DecloudFormer)
 14 | 2025 | CINet | TGRS | Cross-Level Interaction and Intralevel Fusion Network for Remote Sensing Image Dehazing |[Paper](https://ieeexplore.ieee.org/abstract/document/11026022)/[Project]
 15 | 2025 | MABDT | Signal Processing | MABDT: Multi-scale attention boosted deformable transformer for remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168424003888)/[Project](https://github.com/ningjin00/MABDT)
+16 | 2025 | CLEAR-Net | JSTARS | CLEAR-Net: A Cascaded Local and External Attention Network for Enhanced Dehazing of Remote Sensing Images |[Paper](https://ieeexplore.ieee.org/document/10855474)/[Project]
 
 
 ------
