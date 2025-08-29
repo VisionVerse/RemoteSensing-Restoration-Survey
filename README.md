@@ -177,11 +177,12 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 09 | 2024 |PGSformer| GRSL | Prompt-Guided Sparse Transformer for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10648722)/[Project]
 10 | 2024 | ASTA | GRSL | Additional Self-Attention Transformer With Adapter for Thick Haze Removal |[Paper](https://ieeexplore.ieee.org/document/10443626)/[Project](https://github.com/Eric3200C/ASTA)
 11 | 2024 | Dehaze-TGGAN | TGRS | Dehaze-TGGAN: Transformer-Guide Generative Adversarial Networks With Spatial-Spectrum Attention for Unpaired Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/document/10614150)/[Project]
-12 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
-13 | 2025 | DecloudFormer | Pattern Recognition | DecloudFormer: Quest the key to consistent thin cloud removal of wide-swath multi-spectral images |[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003243)/[Project](https://github.com/N1rv4n4/DecloudFormer)
-14 | 2025 | CINet | TGRS | Cross-Level Interaction and Intralevel Fusion Network for Remote Sensing Image Dehazing |[Paper](https://ieeexplore.ieee.org/abstract/document/11026022)/[Project]
-15 | 2025 | MABDT | Signal Processing | MABDT: Multi-scale attention boosted deformable transformer for remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168424003888)/[Project](https://github.com/ningjin00/MABDT)
-16 | 2025 | CLEAR-Net | JSTARS | CLEAR-Net: A Cascaded Local and External Attention Network for Enhanced Dehazing of Remote Sensing Images |[Paper](https://ieeexplore.ieee.org/document/10855474)/[Project]
+12 | 2024 | PCSformer | TGRS | Proxy and Cross-Stripes Integration Transformer for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/10677537)/[Project](https://github.com/SmileShaun/PCSformer)
+13 | 2025 | DehazeXL | CVPR | Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images |[Paper](https://arxiv.org/abs/2504.09621)/[Project](https://github.com/CastleChen339/DehazeXL)
+14 | 2025 | DecloudFormer | Pattern Recognition | DecloudFormer: Quest the key to consistent thin cloud removal of wide-swath multi-spectral images |[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003243)/[Project](https://github.com/N1rv4n4/DecloudFormer)
+15 | 2025 | CINet | TGRS | Cross-Level Interaction and Intralevel Fusion Network for Remote Sensing Image Dehazing |[Paper](https://ieeexplore.ieee.org/abstract/document/11026022)/[Project]
+16 | 2025 | MABDT | Signal Processing | MABDT: Multi-scale attention boosted deformable transformer for remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168424003888)/[Project](https://github.com/ningjin00/MABDT)
+17 | 2025 | CLEAR-Net | JSTARS | CLEAR-Net: A Cascaded Local and External Attention Network for Enhanced Dehazing of Remote Sensing Images |[Paper](https://ieeexplore.ieee.org/document/10855474)/[Project]
 
 
 ------
