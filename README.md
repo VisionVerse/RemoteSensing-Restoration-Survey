@@ -8,6 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
+- **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
 - **2025/07/26**: Added 2 JSTARS 2025 papers, 1 GRSL 2025 paper.
 - **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 paper, 1 ISPRS P&RS 2024 paper and 1 Signal Processing 2025 paper.
 - **2025/06/28**: Paper submitted.
