@@ -155,6 +155,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 11 | 2024 | TC-BC | ISPRS P&RS | A thin cloud blind correction method coupling a physical model with unsupervised deep learning for remote sensing imagery | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003460)/[Project](https://github.com/Liying-Xu/TCBC)
 12 | 2025 | MT_GAN | ISPRS P&RS | MT_GAN: A SAR-to-optical image translation method for cloud removal | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001479)/[Project](https://github.com/NUAA-RS/MT_GAN)
 13 | 2025 | UTCR-Dehaze | EAAI | UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625013879)/[Project]
+14 | 2025 | Dehazing-DiffGAN | TGRS | Dehazing-DiffGAN: Sequential Fusion of Diffusion Models and GANs for High-Fidelity Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11142885)/[Project](https://github.com/Fan-pixel/Dehazing-DiffGAN)
 
 
 ------
@@ -198,6 +199,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 05 | 2024 |IDF-CR | TGRS | IDF-CR: Iterative diffusion process for divide-and-conquer cloud removal in remote-sensing images | [Paper](https://ieeexplore.ieee.org/abstract/document/10474382)/[Project](https://github.com/SongYxing/IDF-CR)
 06 | 2025 |EMRDM | CVPR | Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space | [Paper](https://arxiv.org/abs/2503.23717)/[Project](https://github.com/Ly403/EMRDM)
 07 | 2025 |DFG-DDM | TGRS | DFG-DDM: Deep Frequency-Guided Denoising Diffusion Model for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11071917)/[Project](https://github.com/Junjie-LLL/DFG-DDM)
+08 | 2025 |DS-RDMPD | TGRS | A Dual-Stage Residual Diffusion Model with Perceptual Decoding for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11130517)/[Project](https://github.com/Aaronwangz/DS-RDMPD)
 
 
 
