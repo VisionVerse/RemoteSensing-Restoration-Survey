@@ -312,8 +312,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch=200, batchsize=1, imgsize=256×256, learning rate=4e-4, seed=0</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">SpA-GAN RRSHID result</a></td>
   </tr>
-
-   <tr>
+  <tr>
     <td rowspan="2"><b>DCIL (TGRS 2022)</b></td>
     <td>SateHaze1k</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">DCIL SateHaze1k model</a></td>
@@ -330,7 +329,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch==200, batchsize==10, imgsize==256×256, learning rate==5e-5</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">DCIL RRSHID result</a></td>
   </tr>
-
   <tr>
     <td rowspan="2"><b>DehazeFormer (arXiv 2020)</b></td>
     <td>SateHaze1k</td>
@@ -348,7 +346,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch==150, batchsize==32, imgsize==256×256, learning rate==4e-4</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">DehazeFormer RRSHID result</a></td>
   </tr>
-
   <tr>
     <td rowspan="2"><b>PSMB-Net (TGRS 2023)</b></td>
     <td>SateHaze1k</td>
@@ -366,7 +363,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch==200, batchsize==2, imgsize==256×256, learning rate==1e-4</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">PSMB-Net RRSHID result</a></td>
   </tr>
-
   <tr>
     <td rowspan="2"><b>Trinity-Net (TGRS 2023)</b></td>
     <td>SateHaze1k</td>
@@ -384,7 +380,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch==500, batchsize==4, imgsize==256×256, learning rate==5e-4, seed==4</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">Trinity-Net RRSHID result</a></td>
   </tr>
-
   <tr>
     <td rowspan="2"><b>LFD-Net (JSTARS 2023)</b></td>
     <td>SateHaze1k</td>
@@ -402,7 +397,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch==500, batchsize==8, imgsize==256×256, learning rate==1e-3, seed==1143</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">LFD-Net RRSHID result</a></td>
   </tr>
-
   <tr>
     <td rowspan="2"><b>ASTA (GRSL 2024)</b></td>
     <td>SateHaze1k</td>
@@ -420,7 +414,6 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td>epoch==60, batchsize==4, imgsize==256×256, learning rate==2e-4</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">ASTA RRSHID result</a></td>
   </tr>
-
   <tr>
     <td rowspan="2"><b>DehazeXL (CVPR 2025)</b></td>
     <td>SateHaze1k</td>
