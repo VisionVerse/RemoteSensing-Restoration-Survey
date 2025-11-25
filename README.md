@@ -330,7 +330,7 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">DCIL RRSHID result</a></td>
   </tr>
   <tr>
-    <td rowspan="2"><b>DehazeFormer (arXiv 2020)</b></td>
+    <td rowspan="2"><b>DehazeFormer (TIP 2023)</b></td>
     <td>SateHaze1k</td>
     <td><a href="https://drive.google.com/file/d/1etTpBsWHsrQAGqApj9Qe5X8FStE63iAV/view?usp=sharing">DehazeFormer SateHaze1k model</a></td>
     <td rowspan="2">python==3.7, pytorch==1.10.2, torchvision==0.11.3, tqdm==4.67.1</td>
