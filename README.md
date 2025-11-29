@@ -24,7 +24,7 @@ To provide a practical reference for performance evaluation, we conduct large-sc
 In addition, we discuss key technical challenges in Fig.2, such as dynamic atmospheric modeling, multi-modal data fusion, lightweight model design, data scarcity, and joint degradation scenarios, and propose future research directions.
 
 
-![avatar](/Taxonomy.jpg)
+![avatar](/Taxonomy.png)
 **Fig 1.** Taxonomy of Remote Sensing Image Dehazing Methods.
 
 
