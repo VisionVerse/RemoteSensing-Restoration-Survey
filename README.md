@@ -227,34 +227,103 @@ python evaluate.py --train_folder [restored image path] --target_folder [ground-
 
 Make sure the file structure is consistent with the following:
 ```python
-└── Dataset
-    ├── ERICE
-    │   ├── Test
-    │   │   ├── GT
-    │   │   └── Haze
-    │   └── Train
-    │       ├── GT
-    │       └── Haze
-    ├── HazyRemoteSensingDatasets
-    │   ├── DHID
-    │   │   ├── TestingSet
-    │   │   │   └── Test
-    │   │   │       ├── GT
-    │   │   │       └── Haze
-    │   │   └── TrainingSet
-    │   │       ├── GT
-    │   │       └── Haze
-    │   └── LHID
-    │        ├── TestingSet
-    │        │   └── Merge
-    │        │       ├── GT
-    │        │       └── Haze
-    │        └── TrainingSet
-    │                ├── GT
-    │                └── Haze
-    ├── SateHaze1k
-    │   ├── ...
-
+dataset
+├── ASTA
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+├── DCIL
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+├── DehazeFormer
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+├── DehazeXL
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+├── LFD-Net
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+├── PSMB
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+├── SpA-GAN
+│   ├── RRSHID-M
+│   ├── RRSHID-TK
+│   ├── RRSHID-TN
+│   ├── SH-M
+│   ├── SH-TK
+│   └── SH-TN
+│       └── 1.png, 2.png, ...
+│
+└── Trinity-Net
+|   ├── RRSHID-M
+|   ├── RRSHID-TK
+|   ├── RRSHID-TN
+|   ├── SH-M
+|   ├── SH-TK
+|   └── SH-TN
+│       └── 1.png, 2.png, ...
+|
+├── RRSHID-M-GT
+│   ├── 1.png
+│   ├── 2.png
+│   └── ...
+├── RRSHID-TK-GT
+│   ├── 1.png
+│   ├── 2.png
+│   └── ...
+├── RRSHID-TN-GT
+│   ├── 1.png
+│   ├── 2.png
+│   └── ...
+├── SH-M-GT
+│   ├── 1.png
+│   ├── 2.png
+│   └── ...
+├── SH-TK-GT
+│   ├── 1.png
+│   ├── 2.png
+│   └── ...
+└── SH-TN-GT
+    ├── 1.png
+    ├── 2.png
+    └── ...
 ```
 **Table 1.** 
 Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
