@@ -209,7 +209,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 ------
 
 # 6. :surfer: Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-![avatar](/prospects.jpg)
+![avatar](/prospects.png)
 **Fig 2.** The outlines of current challenges and future prospects in RS image restoration. 
     We reorganize the representative challenges into three overarching directions: 
 Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented Design.
