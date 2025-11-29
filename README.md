@@ -222,7 +222,7 @@ Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented D
 
  For evaluation on **Dehazed** results, modify 'test_original' and 'test_restored' to the corresponding path
 ```python
-python evaluate.py -to [ground-truth image path] -td [restored image path]
+python evaluate.py --train_folder [restored image path] --target_folder [ground-truth image path]
 ```
 
 Make sure the file structure is consistent with the following:
