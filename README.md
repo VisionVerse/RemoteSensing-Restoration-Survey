@@ -352,8 +352,9 @@ Quantitative performance at PSNR (dB) and SSIM of remote sensing image restorati
 | ADND-Net     | Diffusion   | _26.910_  | 0.927      | 26.670      | 0.936      | **26.940**  | _0.936_  | -           | -          |
 | RSHazeDiff   | Diffusion   | -           | -          | -           | -          | -           | -          | _36.560_  | 0.958      |
 
+---------------------
 
-
+Go to [Reproducibility Check list](ReproducibilityChecklist.md)
 
 
 ---------------------
