@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper.
+- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 1 JSTARS 2025 paper
 - **2025/10/21**: Added 3 datasets: RRSHID, HazyDet.
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
 - **2025/07/26**: Added 2 JSTARS 2025 papers, 1 GRSL 2025 paper.
@@ -158,6 +158,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 12 | 2025 | MT_GAN | ISPRS P&RS | MT_GAN: A SAR-to-optical image translation method for cloud removal | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001479)/[Project](https://github.com/NUAA-RS/MT_GAN)
 13 | 2025 | UTCR-Dehaze | EAAI | UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625013879)/[Project]
 14 | 2025 | Dehazing-DiffGAN | TGRS | Dehazing-DiffGAN: Sequential Fusion of Diffusion Models and GANs for High-Fidelity Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11142885)/[Project](https://github.com/Fan-pixel/Dehazing-DiffGAN)
+15 | 2025 | DAH-TrafficRSNet | JSTARS | DAH-TrafficRSNet: Dual-Branch Traffic Remote Sensing Image Dehazing Network Based on Atmospheric Scattering Model and Hierarchical Feature Interaction | [Paper](https://ieeexplore.ieee.org/document/11184800)/[Project]
 
 
 ------
