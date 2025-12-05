@@ -9,7 +9,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 
 ## :mega: News
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 1 JSTARS 2025 paper
-- **2025/10/21**: Added 3 datasets: RRSHID, HazyDet.
+- **2025/10/21**: Added 2 datasets: HyperDehazing, RRSHID.
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
 - **2025/07/26**: Added 2 JSTARS 2025 papers, 1 GRSL 2025 paper.
 - **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 paper, 1 ISPRS P&RS 2024 paper and 1 Signal Processing 2025 paper.
@@ -44,19 +44,16 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 # :open_file_folder: Remote Sensing Image Datasets:  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 **No.** |**Dataset** | **Year** | **Pub.** |**Number** | **Image Size** |  **Types** | **Download**
 :-: | :-: | :-: | :-:  | :-:  | :-:  | :-: | :-:
-01   | [**SateHaze1k**](https://ieeexplore.ieee.org/document/9093471) | 2017 | WACV | 400*3 | 512×512 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
-02   | [**RICE**](https://arxiv.org/abs/1901.00600) | 2019 | arXiv | 950| 512×512 | Synthetic  | [link](https://github.com/BUPTLdy/RICE_DATASET) 
-03 | [**AID**](https://ieeexplore.ieee.org/document/7907303) | 2017 | TGRS | 10000 | 600×600 | Synthetic  | [link](https://opendatalab.org.cn/OpenDataLab/AID) 
-04 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 54000 | 512×512 | Real | [link](https://github.com/IDKiro/DehazeFormer) 
-05 | [**LHID**](https://ieeexplore.ieee.org/document/9895281) | 2022 | TGRS | 31017 | 512×512 | Synthetic | [link](https://github.com/Shan-rs/DCI-Net?tab=readme-ov-file) 
-06 | [**DHID**](https://ieeexplore.ieee.org/document/9895281) | 2022 | TGRS | 14990 | 512×512 | Synthetic | [link](https://github.com/Shan-rs/DCI-Net?tab=readme-ov-file) 
+01   | [**RICE**](https://arxiv.org/abs/1901.00600) | 2019 | arXiv | 1236| 512×512 | Real  | [link](https://github.com/BUPTLdy/RICE_DATASET) 
+02   | [**SateHaze1k**](https://ieeexplore.ieee.org/document/9093471) | 2020 | WACV | 400*3 | 512×512 | Synthetic| [link](https://www.dropbox.com/s/k2i3p7puuwl2g59/Haze1k.zip?dl=0) 
+03 | [**LHID**](https://ieeexplore.ieee.org/document/9895281) | 2022 | TGRS | 31017 | 512×512 | Synthetic | [link](https://github.com/Shan-rs/DCI-Net?tab=readme-ov-file) 
+04 | [**DHID**](https://ieeexplore.ieee.org/document/9895281) | 2022 | TGRS | 14990 | 512×512 | Synthetic | [link](https://github.com/Shan-rs/DCI-Net?tab=readme-ov-file) 
+05 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 51300 | 512×512 | Synthetic | [link](https://github.com/IDKiro/DehazeFormer) 
+06 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | 256×256 | Synthetic | [link](https://github.com/chi-kaichen/Trinity-Net) 
 07 | [**HN-Snowy**](https://www.sciencedirect.com/science/article/pii/S0924271623002903) | 2022 | ISPRS P&RS | 1237 | 256×256 | Synthetic | [link](https://github.com/Merryguoguo/CP-FFCN) 
 08 | [**CUHK-CR**](https://ieeexplore.ieee.org/document/10552304) | 2024 | TGRS | 1227 | 256×256 | Synthetic | [link](https://ieeexplore.ieee.org/document/10552304) 
-09 | [**HRSI**](https://ieeexplore.ieee.org/document/10658989) | 2024 | TGRS | 796 | 512×512-4000×4000 | Synthetic | [link](https://ieeexplore.ieee.org/document/10658989) 
-10 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | 256×256 | Synthetic | [link](https://github.com/chi-kaichen/Trinity-Net) 
-11 | [**UBCSet**](https://www.sciencedirect.com/science/article/pii/S0924271624003460) | 2024 | ISPRS P&RS | 5911 | 256×256 | Synthetic | [link](https://github.com/Liying-Xu/TCBC) 
-12 | [**WHUS2-CR**](https://github.com/Neooolee/WHUS2-CR) | 2021 | - | 24450 | 64×64-384×384 | real |[link](https://github.com/Neooolee/WHUS2-CR)
-13 | [**SEN12MS-CR**](https://patricktum.github.io/cloud_removal/sen12mscr/) | 2018 | - | 122218 | 256×256 | real  |[link](https://patricktum.github.io/cloud_removal/sen12mscr/)
+09 | [**HyperDehazing**](https://www.sciencedirect.com/science/article/pii/S0924271624003721) | 2024 | ISPRS P&RS | 2140 | 512×512 | Real,Synthetic | [link](https://github.com/RsAI-lab/HyperDehazing) 
+10 | [**RRSHID**](https://ieeexplore.ieee.org/abstract/document/11058953) | 2025 | TGRS | 3053 | 256×256| real |[link](https://github.com/AeroVILab-AHU/RRSHID?tab=readme-ov-file)
 
 ------
 
