@@ -206,9 +206,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 # 6. :surfer: Current Challenges and Future Prospects  <a id="prospects" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ![avatar](/prospects.png)
-**Fig 2.** The outlines of current challenges and future prospects in RS image restoration. 
-    We reorganize the representative challenges into three overarching directions: 
-Dynamic-Aware Restoration, Multi-modal Generalization, and Efficiency-Oriented Design.
+**Fig 2.** Future prospects for RSI dehazing: Trustworthy, controllable, and efficient (TCE) remote sensing dehazing systems.
 
 
 ------
@@ -361,7 +359,7 @@ Go to [Reproducibility Check list](ReproducibilityChecklist.md)
 ```BibTeX
 @article{zhou2025remote,
   title={Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects},
-  author={Zhou, Heng and Liu, Xiaoxiong and Zhang, Zhenxi and Li, Chengyang and Yun, Jieheng and Yang, Yunchu and Tian, Chunna and Wu, Xiao-Jun},
+  author={Zhou, Heng and Liu, Xiaoxiong and Zhang, Zhenxi and Yun, Jieheng and Li, Chengyang and Yang, Yunchu and Tian, Chunna and Wu, Xiao-Jun},
   journal={arXiv preprint arXiv:},
   pages={1--56},
   year={2025},
