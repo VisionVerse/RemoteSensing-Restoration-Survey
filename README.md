@@ -9,7 +9,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 
 ## :mega: News
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper.
-- **2025/10/21**: Added 3 datasets: RRSHID, HaztDet.
+- **2025/10/21**: Added 3 datasets: RRSHID, HazyDet.
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
 - **2025/07/26**: Added 2 JSTARS 2025 papers, 1 GRSL 2025 paper.
 - **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 paper, 1 ISPRS P&RS 2024 paper and 1 Signal Processing 2025 paper.
