@@ -51,7 +51,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 05 | [**RS-Haze**](https://ieeexplore.ieee.org/document/10076399) | 2023 | TIP | 51300 | 512×512 | Synthetic | [link](https://github.com/IDKiro/DehazeFormer) 
 06 | [**RSID**](https://ieeexplore.ieee.org/abstract/document/10149032) | 2023 | TGRS | 1000 | 256×256 | Synthetic | [link](https://github.com/chi-kaichen/Trinity-Net) 
 07 | [**HN-Snowy**](https://www.sciencedirect.com/science/article/pii/S0924271623002903) | 2022 | ISPRS P&RS | 1237 | 256×256 | Synthetic | [link](https://github.com/Merryguoguo/CP-FFCN) 
-08 | [**CUHK-CR**](https://ieeexplore.ieee.org/document/10552304) | 2024 | TGRS | 1227 | 256×256 | Synthetic | [link](https://ieeexplore.ieee.org/document/10552304) 
+08 | [**CUHK-CR**](https://ieeexplore.ieee.org/document/10552304) | 2024 | TGRS | 1227 | 512×512 | Synthetic | [link](https://ieeexplore.ieee.org/document/10552304) 
 09 | [**HyperDehazing**](https://www.sciencedirect.com/science/article/pii/S0924271624003721) | 2024 | ISPRS P&RS | 2140 | 512×512 | Real,Synthetic | [link](https://github.com/RsAI-lab/HyperDehazing) 
 10 | [**RRSHID**](https://ieeexplore.ieee.org/abstract/document/11058953) | 2025 | TGRS | 3053 | 256×256| real |[link](https://github.com/AeroVILab-AHU/RRSHID?tab=readme-ov-file)
 
