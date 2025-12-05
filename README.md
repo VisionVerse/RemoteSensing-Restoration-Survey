@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 paperS
+- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 1 TGRS 2025 paper
 - **2025/11/09**: Added 2 datasets: HyperDehazing, RRSHID.
 - **2025/10/25**: Added a [Reproducibility Checklist](ReproducibilityChecklist.md).
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
@@ -129,6 +129,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 35 | 2025 |CCHD | GRSL |CCHD: Chain Connection and Hybrid Dense Attention for Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11003077)/[Project]
 36 | 2025 |CLIP-HNet | ACM MM 2025 |CLIP-HNet: Hybrid Network with Cross-Modal Guidance for Self-Supervised Remote Sensing Dehazing | [Paper](https://dlnext.acm.org/doi/abs/10.1145/3746027.3755818)/[Project]
 37 | 2025 |HazeCLIP | ICASSP |HazeCLIP: Towards Language Guided Real-World Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/10889509)/[Project](https://github.com/Troivyn/HazeCLIP)
+38 | 2025 |DR3DF-Net | TGRS |Dynamic-Routing 3D-Fusion Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10833877)/[Project](https://github.com/lslyttx/DR3DF-Net)
 
 
 
