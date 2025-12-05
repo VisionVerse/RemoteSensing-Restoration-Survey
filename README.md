@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers
+- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper
 - **2025/11/09**: Added 2 datasets: HyperDehazing, RRSHID.
 - **2025/10/25**: Added a [Reproducibility Checklist](ReproducibilityChecklist.md).
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
@@ -150,15 +150,16 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 04 | 2020 | SpA-GAN| arXiv | Cloud Removal for Remote Sensing Imagery via Spatial Attention Generative Adversarial Network | [Paper](https://arxiv.org/abs/2009.13015)/[Project](https://github.com/Penn000/SpA-GAN_for_cloud_removal)
 05 | 2020 | FCTF-Net | GRSL | A coarse-to-fine two-stage attentive network for haze removal of remote sensing images | [Paper](https://ieeexplore.ieee.org/document/9136742)/[Project](https://github.com/Neooolee/FCTF-Net?tab=readme-ov-file)
 06 | 2020 | SScGAN | WACV | Single Satellite Optical Imagery Dehazing using SAR Image Prior Based on conditional Generative Adversarial Networks | [Paper](https://ieeexplore.ieee.org/document/9093471)/[Project]
-07 | 2021 | SAR2Opt-GAN-CR | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
-08 | 2021 | SkyGAN | WACV | Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9423159)/[Project]
-09 | 2022 |Dehaze-AGGAN| TGRS | Dehaze-AGGAN: Unpaired remote sensing image dehazing using enhanced attention-guide generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/9881213)/[Project]
-10 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
-11 | 2024 | TC-BC | ISPRS P&RS | A thin cloud blind correction method coupling a physical model with unsupervised deep learning for remote sensing imagery | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003460)/[Project](https://github.com/Liying-Xu/TCBC)
-12 | 2025 | MT_GAN | ISPRS P&RS | MT_GAN: A SAR-to-optical image translation method for cloud removal | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001479)/[Project](https://github.com/NUAA-RS/MT_GAN)
-13 | 2025 | UTCR-Dehaze | EAAI | UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625013879)/[Project]
-14 | 2025 | Dehazing-DiffGAN | TGRS | Dehazing-DiffGAN: Sequential Fusion of Diffusion Models and GANs for High-Fidelity Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11142885)/[Project](https://github.com/Fan-pixel/Dehazing-DiffGAN)
-15 | 2025 | DAH-TrafficRSNet | JSTARS | DAH-TrafficRSNet: Dual-Branch Traffic Remote Sensing Image Dehazing Network Based on Atmospheric Scattering Model and Hierarchical Feature Interaction | [Paper](https://ieeexplore.ieee.org/document/11184800)/[Project]
+07 | 2020 | ES-CCGAN | Remote Sensing | Unsupervised Haze Removal for High-Resolution Optical Remote-Sensing Images Based on Improved Generative Adversarial Networks | [Paper](https://www.mdpi.com/2072-4292/12/24/4162)/[Project]
+08 | 2021 | SAR2Opt-GAN-CR | TGRS | Cloud removal in remote sensing images using generative adversarial networks and SAR-to-optical image translation | [Paper](https://ieeexplore.ieee.org/abstract/document/9627647)/[Project]
+09 | 2021 | SkyGAN | WACV | Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/9423159)/[Project]
+10 | 2022 |Dehaze-AGGAN| TGRS | Dehaze-AGGAN: Unpaired remote sensing image dehazing using enhanced attention-guide generative adversarial networks | [Paper](https://ieeexplore.ieee.org/document/9881213)/[Project]
+11 | 2023 | MSDA-CR | GRSL | Cloud removal in optical remote sensing imagery using multiscale distortion-aware networks | [Paper](https://ieeexplore.ieee.org/document/9686746)/[Project]
+12 | 2024 | TC-BC | ISPRS P&RS | A thin cloud blind correction method coupling a physical model with unsupervised deep learning for remote sensing imagery | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271624003460)/[Project](https://github.com/Liying-Xu/TCBC)
+13 | 2025 | MT_GAN | ISPRS P&RS | MT_GAN: A SAR-to-optical image translation method for cloud removal | [Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001479)/[Project](https://github.com/NUAA-RS/MT_GAN)
+14 | 2025 | UTCR-Dehaze | EAAI | UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625013879)/[Project]
+15 | 2025 | Dehazing-DiffGAN | TGRS | Dehazing-DiffGAN: Sequential Fusion of Diffusion Models and GANs for High-Fidelity Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11142885)/[Project](https://github.com/Fan-pixel/Dehazing-DiffGAN)
+16 | 2025 | DAH-TrafficRSNet | JSTARS | DAH-TrafficRSNet: Dual-Branch Traffic Remote Sensing Image Dehazing Network Based on Atmospheric Scattering Model and Hierarchical Feature Interaction | [Paper](https://ieeexplore.ieee.org/document/11184800)/[Project]
 
 
 ------
