@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper
+- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper, 1 IJCNN 2025 paper
 - **2025/11/09**: Added 2 datasets: HyperDehazing, RRSHID.
 - **2025/10/25**: Added a [Reproducibility Checklist](ReproducibilityChecklist.md).
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
@@ -188,6 +188,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 16 | 2025 | MABDT | Signal Processing | MABDT: Multi-scale attention boosted deformable transformer for remote sensing image dehazing |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168424003888)/[Project](https://github.com/ningjin00/MABDT)
 17 | 2025 | CLEAR-Net | JSTARS | CLEAR-Net: A Cascaded Local and External Attention Network for Enhanced Dehazing of Remote Sensing Images |[Paper](https://ieeexplore.ieee.org/document/10855474)/[Project]
 18 | 2025 | Winscaleformer | JSTARS | Winscaleformer: Diffusion-Attention-Based Single Remote Sensing Image Dehazing |[Paper](https://ieeexplore.ieee.org/document/11207503)/[Project](https://github.com/liunanwangxing/my_Winscaleformer)
+19 | 2025 | Guidance Net | IJCNN | Guidance Net: Remote Sensing Image Dehazing with Guidance of Prompt Texture Information Embedding |[Paper](https://ieeexplore.ieee.org/document/11228679)/[Project]
 
 
 ------
