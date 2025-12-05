@@ -8,6 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
+- **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper.
 - **2025/08/29**: Added 2 TGRS 2025 papers, 1 TGRS 2024 paper.
 - **2025/07/26**: Added 2 JSTARS 2025 papers, 1 GRSL 2025 paper.
 - **2025/07/22**: Added 3 TGRS 2025 papers, 1 EAAI 2025 paper, 1 ISPRS P&RS 2024 paper and 1 Signal Processing 2025 paper.
@@ -127,6 +128,8 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 33 | 2025 |MCAF-Net | TGRS |Real-World Remote Sensing Image Dehazing: Benchmark and Baseline| [Paper](https://ieeexplore.ieee.org/abstract/document/11058953)/[Project](https://github.com/lwCVer/RRSHID)
 34 | 2025 |DFDNet | JSTARS |Density-Guided and Frequency Modulation Dehazing Network for Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/abstract/document/10946836)/[Project]
 35 | 2025 |CCHD | GRSL |CCHD: Chain Connection and Hybrid Dense Attention for Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11003077)/[Project]
+36 | 2025 |CLIP-HNet | ACM MM 2025 |CLIP-HNet: Hybrid Network with Cross-Modal Guidance for Self-Supervised Remote Sensing Dehazing | [Paper](https://dlnext.acm.org/doi/abs/10.1145/3746027.3755818)/[Project]
+37 | 2025 |HazeCLIP | ICASSP |HazeCLIP: Towards Language Guided Real-World Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/10889509)/[Project](https://github.com/Troivyn/HazeCLIP)
 
 
 
