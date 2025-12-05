@@ -59,7 +59,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 1. Traditional Image Enhancement and Physics Model for Remote Sensing Image Dehazing:  <a id="Traditional Methods" class="anchor" href="#Traditional Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-07-26) :balloon:
+:rocket::rocket::rocket:Update (in 2025-12-05) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -87,7 +87,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 2. Deep Convolution for Remote Sensing Image Dehazing:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-07-26) :balloon:
+:rocket::rocket::rocket:Update (in 2025-12-05) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -137,7 +137,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 # 3. Adversarial Generation for Remote Sensing Image Dehazing:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-:rocket::rocket::rocket:Update (in 2025-07-26) :balloon:
+:rocket::rocket::rocket:Update (in 2025-12-05) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -162,7 +162,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 4. Vision Transformer for Remote Sensing Image Dehazing:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-07-26) :balloon:
+:rocket::rocket::rocket:Update (in 2025-12-05) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -189,7 +189,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 #  5. Diffusion Generation for Remote Sensing Image Dehazing:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-07-26) :balloon:
+:rocket::rocket::rocket:Update (in 2025-12-05) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -224,102 +224,26 @@ python evaluate.py --train_folder [restored image path] --target_folder [ground-
 Make sure the file structure is consistent with the following:
 ```python
 dataset
-├── ASTA
+├── Restored
+│   ├── RICE
 │   ├── RRSHID-M
 │   ├── RRSHID-TK
 │   ├── RRSHID-TN
 │   ├── SH-M
 │   ├── SH-TK
 │   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-├── DCIL
-│   ├── RRSHID-M
-│   ├── RRSHID-TK
-│   ├── RRSHID-TN
-│   ├── SH-M
-│   ├── SH-TK
-│   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-├── DehazeFormer
-│   ├── RRSHID-M
-│   ├── RRSHID-TK
-│   ├── RRSHID-TN
-│   ├── SH-M
-│   ├── SH-TK
-│   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-├── DehazeXL
-│   ├── RRSHID-M
-│   ├── RRSHID-TK
-│   ├── RRSHID-TN
-│   ├── SH-M
-│   ├── SH-TK
-│   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-├── LFD-Net
-│   ├── RRSHID-M
-│   ├── RRSHID-TK
-│   ├── RRSHID-TN
-│   ├── SH-M
-│   ├── SH-TK
-│   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-├── PSMB
-│   ├── RRSHID-M
-│   ├── RRSHID-TK
-│   ├── RRSHID-TN
-│   ├── SH-M
-│   ├── SH-TK
-│   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-├── SpA-GAN
-│   ├── RRSHID-M
-│   ├── RRSHID-TK
-│   ├── RRSHID-TN
-│   ├── SH-M
-│   ├── SH-TK
-│   └── SH-TN
-│       └── 1.png, 2.png, ...
-│
-└── Trinity-Net
-|   ├── RRSHID-M
-|   ├── RRSHID-TK
-|   ├── RRSHID-TN
-|   ├── SH-M
-|   ├── SH-TK
-|   └── SH-TN
 │       └── 1.png, 2.png, ...
 |
-├── RRSHID-M-GT
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-├── RRSHID-TK-GT
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-├── RRSHID-TN-GT
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-├── SH-M-GT
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-├── SH-TK-GT
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
-└── SH-TN-GT
-    ├── 1.png
-    ├── 2.png
-    └── ...
+├── Ground-truth
+│   ├── RICE-GT
+│   ├── RRSHID-M-GT
+│   ├── RRSHID-TK-GT
+│   ├── RRSHID-TN-GT
+│   ├── SH-M-GT
+│   ├── SH-TK-GT
+│   └── SH-TN-GT
+│       └── 1.png, 2.png, ...
+
 ```
 **Table 1.** 
 Quantitative performance at PSNR (dB) and SSIM of remote sensing image restoration algorithms evaluated on the SateHaze1k (SH-TN, SH-M, SH-TK) and RICE datasets.
