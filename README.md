@@ -8,6 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
+- **2025/12/05**: :trophy: More than 100 methods have been included ! 
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper, 1 IJCNN 2025 paper
 - **2025/11/09**: Added 2 datasets: HyperDehazing, RRSHID.
 - **2025/10/25**: Added a [Reproducibility Checklist](ReproducibilityChecklist.md).
