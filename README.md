@@ -128,7 +128,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 33 | 2025 |MCAF-Net | TGRS |Real-World Remote Sensing Image Dehazing: Benchmark and Baseline| [Paper](https://ieeexplore.ieee.org/abstract/document/11058953)/[Project](https://github.com/lwCVer/RRSHID)
 34 | 2025 |DFDNet | JSTARS |Density-Guided and Frequency Modulation Dehazing Network for Remote Sensing Images| [Paper](https://ieeexplore.ieee.org/abstract/document/10946836)/[Project]
 35 | 2025 |CCHD | GRSL |CCHD: Chain Connection and Hybrid Dense Attention for Remote Sensing Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11003077)/[Project]
-36 | 2025 |CLIP-HNet | ACM MM 2025 |CLIP-HNet: Hybrid Network with Cross-Modal Guidance for Self-Supervised Remote Sensing Dehazing | [Paper](https://dlnext.acm.org/doi/abs/10.1145/3746027.3755818)/[Project]
+36 | 2025 |CLIP-HNet | ACM MM |CLIP-HNet: Hybrid Network with Cross-Modal Guidance for Self-Supervised Remote Sensing Dehazing | [Paper](https://dlnext.acm.org/doi/abs/10.1145/3746027.3755818)/[Project]
 37 | 2025 |HazeCLIP | ICASSP |HazeCLIP: Towards Language Guided Real-World Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/10889509)/[Project](https://github.com/Troivyn/HazeCLIP)
 38 | 2025 |DR3DF-Net | TGRS |Dynamic-Routing 3D-Fusion Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10833877)/[Project](https://github.com/lslyttx/DR3DF-Net)
 39 | 2025 |SFRDP-Net | TGRS |Spatial–Frequency Residual-Guided Dynamic Perceptual Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10892218)/[Project](https://github.com/789as-syl/SFRDP-Net)
