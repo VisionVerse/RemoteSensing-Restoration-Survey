@@ -3,7 +3,7 @@
 
 
 For the purposes of this review, **we adopt an inclusive definition of “dehazing” that encompasses all methodologies designed to mitigate the effects of fog, haze, and optically cloud layers.**
-In this review, we have systematically examined **over 200 papers** :scroll::scroll::scroll:, summarizing and analyzing **more than** 80 Remote Sensing Image Dehazing methods. 
+In this review, we have systematically examined **over 200 papers** :scroll::scroll::scroll:, summarizing and analyzing **more than** 100 Remote Sensing Image Dehazing methods. 
 
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
