@@ -132,6 +132,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 37 | 2025 |HazeCLIP | ICASSP |HazeCLIP: Towards Language Guided Real-World Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/10889509)/[Project](https://github.com/Troivyn/HazeCLIP)
 38 | 2025 |DR3DF-Net | TGRS |Dynamic-Routing 3D-Fusion Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10833877)/[Project](https://github.com/lslyttx/DR3DF-Net)
 39 | 2025 |SFRDP-Net | TGRS |Spatial–Frequency Residual-Guided Dynamic Perceptual Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10892218)/[Project](https://github.com/789as-syl/SFRDP-Net)
+40 | 2025 |MiDUNet | TGRS |MiDUNet: Model Inspired Deep Unfolding Network for Non-homogeneous Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11270921)/[Project]
 
 
 
