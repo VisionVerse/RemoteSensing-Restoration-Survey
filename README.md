@@ -8,6 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
+- **2026/1/30**: Added 1 TIP 2025 paper,
 - **2025/12/15**: Added 1 TGRS 2025 paper, 1 JSTARS 2025 paper
 - **2025/12/05**: :trophy: More than 100 methods have been included ! 
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper, 1 IJCNN 2025 paper
@@ -169,7 +170,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 4. Vision Transformer for Remote Sensing Image Dehazing:  <a id="Transformer" class="anchor" href="#Transformer" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-12-15) :balloon:
+:rocket::rocket::rocket:Update (in 2026-1-30) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
