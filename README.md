@@ -193,6 +193,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 18 | 2025 | Winscaleformer | JSTARS | Winscaleformer: Diffusion-Attention-Based Single Remote Sensing Image Dehazing |[Paper](https://ieeexplore.ieee.org/document/11207503)/[Project](https://github.com/liunanwangxing/my_Winscaleformer)
 19 | 2025 | Guidance Net | IJCNN | Guidance Net: Remote Sensing Image Dehazing with Guidance of Prompt Texture Information Embedding |[Paper](https://ieeexplore.ieee.org/document/11228679)/[Project]
 20 | 2025 | DehazeMamba | JSTARS | DehazeMamba: SAR-Guided Optical Remote Sensing Image Dehazing With Adaptive State Space Model |[Paper](https://ieeexplore.ieee.org/document/11251147)/[Project]
+21 | 2025 | C4RSD | TIP | Cross-Frequency Attention and Color Contrast Constraint for Remote Sensing Dehazing |[Paper](https://ieeexplore.ieee.org/abstract/document/11306247)/[Project](https://github.com/fyxnl/C4RSD/tree/master)
 
 
 ------
