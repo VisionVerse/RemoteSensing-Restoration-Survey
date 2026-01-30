@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2026/1/30**: Added 1 TIP 2025 paper, Added 1 TCSVT 2025 paper, Added 1 GRSL 2025 paper,  Added 1 TGRS 2025 paper
+- **2026/1/30**: Added 1 TIP 2025 paper, Added 1 TCSVT 2025 paper, Added 1 GRSL 2025 paper,  Added 2 TGRS 2025 papers
 - **2025/12/15**: Added 1 TGRS 2025 paper, 1 JSTARS 2025 paper
 - **2025/12/05**: :trophy: More than 100 methods have been included ! 
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper, 1 IJCNN 2025 paper
@@ -166,6 +166,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 14 | 2025 | UTCR-Dehaze | EAAI | UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625013879)/[Project]
 15 | 2025 | Dehazing-DiffGAN | TGRS | Dehazing-DiffGAN: Sequential Fusion of Diffusion Models and GANs for High-Fidelity Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11142885)/[Project](https://github.com/Fan-pixel/Dehazing-DiffGAN)
 16 | 2025 | DAH-TrafficRSNet | JSTARS | DAH-TrafficRSNet: Dual-Branch Traffic Remote Sensing Image Dehazing Network Based on Atmospheric Scattering Model and Hierarchical Feature Interaction | [Paper](https://ieeexplore.ieee.org/document/11184800)/[Project]
+17 | 2025 | LFDBP-Net | TGRS | Latent Feature Disentanglement Bidirectional Prompting Network for Unsupervised Cloud Removal | [Paper](https://ieeexplore.ieee.org/abstract/document/11219190)/[Project](https://github.com/nbhuangzhixuan/LFDBP-Net)
 
 
 ------
