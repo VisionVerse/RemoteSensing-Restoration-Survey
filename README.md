@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2026/1/30**: Added 1 TIP 2025 paper,
+- **2026/1/30**: Added 1 TIP 2025 paper, Added 1 TCSVT paper
 - **2025/12/15**: Added 1 TGRS 2025 paper, 1 JSTARS 2025 paper
 - **2025/12/05**: :trophy: More than 100 methods have been included ! 
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper, 1 IJCNN 2025 paper
@@ -91,7 +91,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 2. Deep Convolution for Remote Sensing Image Dehazing:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-12-15) :balloon:
+:rocket::rocket::rocket:Update (in 2026-1-30) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -135,6 +135,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 38 | 2025 |DR3DF-Net | TGRS |Dynamic-Routing 3D-Fusion Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10833877)/[Project](https://github.com/lslyttx/DR3DF-Net)
 39 | 2025 |SFRDP-Net | TGRS |Spatial–Frequency Residual-Guided Dynamic Perceptual Network for Remote Sensing Image Haze Removal | [Paper](https://ieeexplore.ieee.org/document/10892218)/[Project](https://github.com/789as-syl/SFRDP-Net)
 40 | 2025 |MiDUNet | TGRS |MiDUNet: Model Inspired Deep Unfolding Network for Non-homogeneous Image Dehazing | [Paper](https://ieeexplore.ieee.org/document/11270921)/[Project]
+40 | 2025 |ThiefCloud | TCSVT |ThiefCloud: A Thickness Fused Thin Cloud Removal Network for Optical Remote Sensing Image With Self-Supervised Learnable Cloud Prior | [Paper](https://ieeexplore.ieee.org/abstract/document/11071276)/[Project](https://github.com/lixinghua5540/ThiefCloud)
 
 
 
