@@ -63,7 +63,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 # 1. Traditional Image Enhancement and Physics Model for Remote Sensing Image Dehazing:  <a id="Traditional Methods" class="anchor" href="#Traditional Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-12-15) :balloon:
+:rocket::rocket::rocket:Update (in 2026-1-30) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -146,7 +146,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 # 3. Adversarial Generation for Remote Sensing Image Dehazing:  <a id="GANmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-:rocket::rocket::rocket:Update (in 2025-12-15) :balloon:
+:rocket::rocket::rocket:Update (in 2026-1-30) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -205,7 +205,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 
 
 #  5. Diffusion Generation for Remote Sensing Image Dehazing:  <a id="Diffusion" class="anchor" href="#Diffusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2025-12-15) :balloon:
+:rocket::rocket::rocket:Update (in 2026-1-30) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
