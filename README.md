@@ -8,7 +8,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 :heart_eyes_cat: If this work is helpful for you, please help star this repo. Thanks! 
 
 ## :mega: News
-- **2026/1/30**: Added 1 TIP 2025 paper, Added 1 TCSVT 2025 paper, 1 GRSL 2025 paper, 2 TGRS 2025 papers
+- **2026/1/30**: Added 1 TIP 2025 paper, 1 TCSVT 2025 paper, 1 GRSL 2025 paper, 2 TGRS 2025 papers
 - **2025/12/15**: Added 1 TGRS 2025 paper, 1 JSTARS 2025 paper
 - **2025/12/05**: :trophy: More than 100 methods have been included ! 
 - **2025/12/05**: Added 1 ACM MM 2025 paper, 1 ICASSP 2025 paper, 2 JSTARS 2025 papers, 2 TGRS 2025 papers, 1 Remote Sensing 2020 paper, 1 IJCNN 2025 paper
