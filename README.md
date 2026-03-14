@@ -307,12 +307,14 @@ Go to [Reproducibility Checklist](ReproducibilityChecklist.md)
 
 - If you find [our survey paper] and evaluation code are useful, please cite the following paper:
 ```BibTeX
-@article{zhou2025remote,
+@article{zhou2026remote,
   title={Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects},
   author={Zhou, Heng and Liu, Xiaoxiong and Zhang, Zhenxi and Yun, Jieheng and Li, Chengyang and Yang, Yunchu and Tian, Chunna and Wu, Xiao-Jun},
-  journal={arXiv preprint arXiv:},
-  pages={1--56},
-  year={2025},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={},
+  pages={1--82},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
