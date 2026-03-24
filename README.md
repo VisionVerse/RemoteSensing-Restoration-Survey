@@ -9,7 +9,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 
 ## :mega: News
 - **2026/3/11**: Added 4 TGRS 2026 papers, 2 JSTARS 2026 papers
-- **2026/3/9**: Our paper has been officially published in the [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/abs/pii/S092427162600122X). The preprint version is available on [arXiv]().
+- **2026/3/9**: Our paper has been officially published in the [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/abs/pii/S092427162600122X). The preprint version is available on [arXiv](https://arxiv.org/abs/2603.20289).
 - **2026/1/30**: Added 1 TIP 2025 paper, 1 TCSVT 2025 paper, 1 GRSL 2025 paper, 2 TGRS 2025 papers
 - **2025/12/15**: Added 1 TGRS 2025 paper, 1 JSTARS 2025 paper
 - **2025/12/05**: :trophy: More than 100 methods have been included ! 
@@ -305,7 +305,7 @@ Go to [Reproducibility Checklist](ReproducibilityChecklist.md)
 
 # :books: Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-- If you find our survey paper ([ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S092427162600122X), [arXiv]()) and evaluation code are useful, please cite the following paper:
+- If you find our survey paper ([ISPRS](https://www.sciencedirect.com/science/article/abs/pii/S092427162600122X), [arXiv](https://arxiv.org/abs/2603.20289)) and evaluation code are useful, please cite the following paper:
 ```BibTeX
 @article{zhou2026remote,
   title={Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects},
