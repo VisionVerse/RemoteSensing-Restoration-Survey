@@ -9,7 +9,7 @@ In this review, we have systematically examined **over 200 papers** :scroll::scr
 
 ## :mega: News
 - **2026/3/11**: Added 4 TGRS 2026 papers, 2 JSTARS 2026 papers
-- **2026/3/9**: Our paper has been officially published in the [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/abs/pii/S092427162600122X). The preprint version is available on [arXiv](https://arxiv.org/abs/2603.20289).
+- **2026/3/9**: Our paper has been officially published in the [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/abs/pii/S092427162600122X). The preprint version is available on [arXiv](https://arxiv.org/abs/2603.20289). :balloon::balloon::balloon:
 - **2026/1/30**: Added 1 TIP 2025 paper, 1 TCSVT 2025 paper, 1 GRSL 2025 paper, 2 TGRS 2025 papers
 - **2025/12/15**: Added 1 TGRS 2025 paper, 1 JSTARS 2025 paper
 - **2025/12/05**: :trophy: More than 100 methods have been included ! 
