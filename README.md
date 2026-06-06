@@ -1,6 +1,14 @@
-# Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey)
+# Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects  ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey)
 
-
+<p align="center">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue">
+  <img src="https://img.shields.io/badge/PyTorch-1.10+-red">
+  <img src="https://img.shields.io/badge/Task-Remote%20Sensing%20Dehazing-green">
+  <img src="https://img.shields.io/badge/Scene-Hazy%20Remote%20Sensing-purple">
+  <!-- <img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs Welcome">
+  <img src="https://img.shields.io/github/stars/VisionVerse/RemoteSensing-Restoration-Survey?style=social" alt="GitHub stars"> -->
+</p>
 
 For the purposes of this review, **we adopt an inclusive definition of “dehazing” that encompasses all methodologies designed to mitigate the effects of fog, haze, and optically cloud layers.**
 In this review, we have systematically examined **over 200 papers** :scroll::scroll::scroll:, summarizing and analyzing **more than** 100 Remote Sensing Image Dehazing methods. 
