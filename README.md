@@ -326,7 +326,7 @@ Go to [Reproducibility Checklist](ReproducibilityChecklist.md)
 }
 ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VisionVerse/RemoteSensing-Restoration-Survey&type=Date)](https://www.star-history.com/#VisionVerse/RemoteSensing-Restoration-Survey)
+% [![Star History Chart](https://api.star-history.com/svg?repos=VisionVerse/RemoteSensing-Restoration-Survey&type=Date)](https://www.star-history.com/#VisionVerse/RemoteSensing-Restoration-Survey)
 
 
 --------------------------------------------------------------------------------------
