@@ -217,6 +217,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 24 | 2026 | Hi-RSMamba | JSTARS | Hi-RSMamba: Hierarchical Mamba for Remote Sensing Image Restoration Under Adverse Weather |[Paper](https://ieeexplore.ieee.org/abstract/document/11393606)/[Project]
 
 
+
 ------
 
 
@@ -233,6 +234,7 @@ In addition, we discuss key technical challenges in Fig.2, such as dynamic atmos
 06 | 2025 |EMRDM | CVPR | Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space | [Paper](https://arxiv.org/abs/2503.23717)/[Project](https://github.com/Ly403/EMRDM)
 07 | 2025 |DFG-DDM | TGRS | DFG-DDM: Deep Frequency-Guided Denoising Diffusion Model for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11071917)/[Project](https://github.com/Junjie-LLL/DFG-DDM)
 08 | 2025 |DS-RDMPD | TGRS | A Dual-Stage Residual Diffusion Model with Perceptual Decoding for Remote Sensing Image Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/11130517)/[Project](https://github.com/Aaronwangz/DS-RDMPD)
+09 | 2026 | GACR | ECCV | Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment |[Paper](https://arxiv.org/abs/2607.02471)/[Project](https://github.com/wzy6055/GACR)
 
 
 
