@@ -329,8 +329,15 @@ Go to [Reproducibility Checklist](ReproducibilityChecklist.md)
 }
 ```
 
-% [![Star History Chart](https://api.star-history.com/svg?repos=VisionVerse/RemoteSensing-Restoration-Survey&type=Date)](https://www.star-history.com/#VisionVerse/RemoteSensing-Restoration-Survey)
+## Star History
 
+<a href="https://www.star-history.com/?repos=VisionVerse%2FRemoteSensing-Restoration-Survey&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=VisionVerse/RemoteSensing-Restoration-Survey&type=date&theme=dark&legend=top-left&sealed_token=5zfX_p43o-Ots3Azcl1JcxsZlT0YUQbMZKrW8s999hoRu3qG9SWj__gkDvUwJK7KnSZWn4AyuvFA7FljCaYeQVSMbvqCzzN5d_shYy_OHBGo9_Q0hsBFbHGV9qlQzdkVm6dkFVcQR4XCiv6pJD6CED-BhJdV8aXBw1PTeZm_D1kAx9SXyzhPvhme4miX" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=VisionVerse/RemoteSensing-Restoration-Survey&type=date&legend=top-left&sealed_token=5zfX_p43o-Ots3Azcl1JcxsZlT0YUQbMZKrW8s999hoRu3qG9SWj__gkDvUwJK7KnSZWn4AyuvFA7FljCaYeQVSMbvqCzzN5d_shYy_OHBGo9_Q0hsBFbHGV9qlQzdkVm6dkFVcQR4XCiv6pJD6CED-BhJdV8aXBw1PTeZm_D1kAx9SXyzhPvhme4miX" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=VisionVerse/RemoteSensing-Restoration-Survey&type=date&legend=top-left&sealed_token=5zfX_p43o-Ots3Azcl1JcxsZlT0YUQbMZKrW8s999hoRu3qG9SWj__gkDvUwJK7KnSZWn4AyuvFA7FljCaYeQVSMbvqCzzN5d_shYy_OHBGo9_Q0hsBFbHGV9qlQzdkVm6dkFVcQR4XCiv6pJD6CED-BhJdV8aXBw1PTeZm_D1kAx9SXyzhPvhme4miX" />
+ </picture>
+</a>
 
 --------------------------------------------------------------------------------------
 
